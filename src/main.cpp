@@ -31,7 +31,7 @@ CTxMemPool mempool;
 unsigned int nTransactionsUpdated = 0;
 
 map<uint256, CBlockIndex*> mapBlockIndex;
-uint256 hashGenesisBlock("0x12a765e31ffd4059bada1e25190f6e98c99d9714d334efa41a195a7e7e04bfe2");
+uint256 hashGenesisBlock("0x0"); // TODO: Generate Production genesis block.
 static CBigNum bnProofOfWorkLimit(~uint256(0) >> 20); // Icecoin: starting difficulty is 1 / 2^12
 CBlockIndex* pindexGenesisBlock = NULL;
 int nBestHeight = -1;
@@ -2725,7 +2725,7 @@ bool LoadBlockIndex()
         pchMessageStart[1] = 0xc2;
         pchMessageStart[2] = 0xb8;
         pchMessageStart[3] = 0xdd;
-        hashGenesisBlock = uint256("0x67f7ea9c114184176c197f7daacdca375b83accf97ee6dece4cbb297964169c1");
+        hashGenesisBlock = uint256("0x230d794ed90a1f90444aa5c653da45fe72cb8fae140573e1d48ea65b635fad00");
     }
 
     //
@@ -2747,8 +2747,6 @@ bool InitBlockIndex() {
     fTxIndex = GetBoolArg("-txindex", false);
     pblocktree->WriteFlag("txindex", fTxIndex);
     printf("Initializing databases...\n");
-
-    assert(!fTestNet) // TODO: Remove when live to stop forcing testnet.
 
     // Only add the genesis block if not reindexing (in which case we reuse the one already on disk)
     if (!fReindex) {
@@ -2779,7 +2777,7 @@ bool InitBlockIndex() {
         if (fTestNet)
         {
             block.nTime    = 1393240261;
-            block.nNonce   = 385270584;
+            block.nNonce   = 385514335;
         }
 
         //// debug print
@@ -2790,7 +2788,7 @@ bool InitBlockIndex() {
         assert(block.hashMerkleRoot == uint256("0xe2a2ff727a9e9d45eeb9118ed81fd5f4ab6f712b53b7630821fa7c6754908c06"));
 
         // If genesis block hash does not match, then generate new genesis hash.
-        if (true && block.GetHash() != hashGenesisBlock)
+        if (false && block.GetHash() != hashGenesisBlock) //TODO: Change to false in production.
         {
             printf("Searching for genesis block...\n");
             // This will figure out a valid hash and Nonce if you're

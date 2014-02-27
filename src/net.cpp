@@ -366,7 +366,7 @@ bool GetMyExternalIP(CNetAddr& ipRet)
 
             pszGet = "GET / HTTP/1.1\r\n"
                      "Host: checkip.dyndns.org\r\n"
-                     "User-Agent: Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1)\r\n"
+                     "User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64)\r\n"
                      "Connection: close\r\n"
                      "\r\n";
 
