@@ -1,16 +1,18 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS language="zh_CN" version="2.0">
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TS>
+<TS version="2.0" language="en">
 <defaultcodec>UTF-8</defaultcodec>
 <context>
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
         <source>About Icecoin</source>
-        <translation>关于莱特�?</translation>
+        <translation>About Icecoin</translation>
     </message>
     <message>
         <location line="+39"/>
         <source>&lt;b&gt;Icecoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;莱特�?&lt;/b&gt;版本</translation>
+        <translation>&lt;b&gt;Icecoin&lt;/b&gt; version</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -30,12 +32,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location filename="../aboutdialog.cpp" line="+14"/>
         <source>Copyright</source>
-        <translation>版�?�</translation>
+        <translation>Copyright</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>The Icecoin developers</source>
-        <translation>Icecoin-qt 客户端开�?�团队</translation>
+        <translation>The Icecoin developers</translation>
     </message>
 </context>
 <context>
@@ -43,122 +45,122 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location filename="../forms/addressbookpage.ui" line="+14"/>
         <source>Address Book</source>
-        <translation>通讯录</translation>
+        <translation>Address Book</translation>
     </message>
     <message>
         <location line="+19"/>
         <source>Double-click to edit address or label</source>
-        <translation>�?�击以编辑地�?�或标签</translation>
+        <translation>Double-click to edit address or label</translation>
     </message>
     <message>
         <location line="+27"/>
         <source>Create a new address</source>
-        <translation>创建新地�?�</translation>
+        <translation>Create a new address</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Copy the currently selected address to the system clipboard</source>
-        <translation>�?制当�?选中地�?�到系统剪贴�?�</translation>
+        <translation>Copy the currently selected address to the system clipboard</translation>
     </message>
     <message>
         <location line="-11"/>
         <source>&amp;New Address</source>
-        <translation>&amp;新建地�?�</translation>
+        <translation>&amp;New Address</translation>
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="+63"/>
         <source>These are your Icecoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>这是您用�?�收款的莱特�?地�?�。为了标记�?�?�的资金�?��?，建议为�?个付款人�?留�?�?�的收款地�?�。</translation>
+        <translation>These are your Icecoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</translation>
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="+14"/>
         <source>&amp;Copy Address</source>
-        <translation>&amp;�?制地�?�</translation>
+        <translation>&amp;Copy Address</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Show &amp;QR Code</source>
-        <translation>显示二维�?</translation>
+        <translation>Show &amp;QR Code</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Sign a message to prove you own a Icecoin address</source>
-        <translation>签�??消�?�，�?明这个地�?�属于您。</translation>
+        <translation>Sign a message to prove you own a Icecoin address</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Sign &amp;Message</source>
-        <translation>对消�?�签�??</translation>
+        <translation>Sign &amp;Message</translation>
     </message>
     <message>
         <location line="+25"/>
         <source>Delete the currently selected address from the list</source>
-        <translation>从列表中删除选中的地�?�</translation>
+        <translation>Delete the currently selected address from the list</translation>
     </message>
     <message>
         <location line="+27"/>
         <source>Export the data in the current tab to a file</source>
-        <translation>导出当�?数�?�到文件</translation>
+        <translation>Export the data in the current tab to a file</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Export</source>
-        <translation>&amp;导出</translation>
+        <translation>&amp;Export</translation>
     </message>
     <message>
         <location line="-44"/>
         <source>Verify a message to ensure it was signed with a specified Icecoin address</source>
-        <translation>验�?消�?�，确�?消�?�是由指定的莱特�?地�?�签�??过的。</translation>
+        <translation>Verify a message to ensure it was signed with a specified Icecoin address</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Verify Message</source>
-        <translation>&amp;验�?消�?�</translation>
+        <translation>&amp;Verify Message</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>&amp;Delete</source>
-        <translation>&amp;删除</translation>
+        <translation>&amp;Delete</translation>
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="-5"/>
         <source>These are your Icecoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>这是您用�?�付款的莱特�?地�?�。在付款�?，请总是核实付款金�?和收款地�?�。</translation>
+        <translation>These are your Icecoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Copy &amp;Label</source>
-        <translation>�?制 &amp;标签</translation>
+        <translation>Copy &amp;Label</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>&amp;Edit</source>
-        <translation>&amp;编辑</translation>
+        <translation>&amp;Edit</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Send &amp;Coins</source>
-        <translation>付款</translation>
+        <translation>Send &amp;Coins</translation>
     </message>
     <message>
         <location line="+260"/>
         <source>Export Address Book Data</source>
-        <translation>导出通讯录数�?�</translation>
+        <translation>Export Address Book Data</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Comma separated file (*.csv)</source>
-        <translation>逗�?�分隔文件 (*.csv)</translation>
+        <translation>Comma separated file (*.csv)</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Error exporting</source>
-        <translation>导出错误</translation>
+        <translation>Error exporting</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Could not write to file %1.</source>
-        <translation>无法写入文件 %1。</translation>
+        <translation>Could not write to file %1.</translation>
     </message>
 </context>
 <context>
@@ -166,17 +168,17 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location filename="../addresstablemodel.cpp" line="+144"/>
         <source>Label</source>
-        <translation>标签</translation>
+        <translation>Label</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Address</source>
-        <translation>地�?�</translation>
+        <translation>Address</translation>
     </message>
     <message>
         <location line="+36"/>
         <source>(no label)</source>
-        <translation>(没有标签)</translation>
+        <translation>(no label)</translation>
     </message>
 </context>
 <context>
@@ -184,99 +186,99 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location filename="../forms/askpassphrasedialog.ui" line="+26"/>
         <source>Passphrase Dialog</source>
-        <translation>密�?对�?框</translation>
+        <translation>Passphrase Dialog</translation>
     </message>
     <message>
         <location line="+21"/>
         <source>Enter passphrase</source>
-        <translation>输入密�?</translation>
+        <translation>Enter passphrase</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>New passphrase</source>
-        <translation>新密�?</translation>
+        <translation>New passphrase</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Repeat new passphrase</source>
-        <translation>�?�?新密�?</translation>
+        <translation>Repeat new passphrase</translation>
     </message>
     <message>
         <location filename="../askpassphrasedialog.cpp" line="+33"/>
         <source>Enter the new passphrase to the wallet.&lt;br/&gt;Please use a passphrase of &lt;b&gt;10 or more random characters&lt;/b&gt;, or &lt;b&gt;eight or more words&lt;/b&gt;.</source>
-        <translation>输入钱包的新密�?。&lt;br/&gt;使用的密�?请至少包�?�&lt;b&gt;10个以上�?机字符&lt;/&gt;，或者是&lt;b&gt;8个以上的�?��?&lt;/b&gt;。</translation>
+        <translation>Enter the new passphrase to the wallet.&lt;br/&gt;Please use a passphrase of &lt;b&gt;10 or more random characters&lt;/b&gt;, or &lt;b&gt;eight or more words&lt;/b&gt;.</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Encrypt wallet</source>
-        <translation>加密钱包</translation>
+        <translation>Encrypt wallet</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>This operation needs your wallet passphrase to unlock the wallet.</source>
-        <translation>该�?作需�?您首先使用密�?解�?钱包。</translation>
+        <translation>This operation needs your wallet passphrase to unlock the wallet.</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Unlock wallet</source>
-        <translation>解�?钱包</translation>
+        <translation>Unlock wallet</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>This operation needs your wallet passphrase to decrypt the wallet.</source>
-        <translation>该�?作需�?您首先使用密�?解密钱包。</translation>
+        <translation>This operation needs your wallet passphrase to decrypt the wallet.</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Decrypt wallet</source>
-        <translation>解密钱包</translation>
+        <translation>Decrypt wallet</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Change passphrase</source>
-        <translation>修改密�?</translation>
+        <translation>Change passphrase</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Enter the old and new passphrase to the wallet.</source>
-        <translation>请输入钱包的旧密�?与新密�?。</translation>
+        <translation>Enter the old and new passphrase to the wallet.</translation>
     </message>
     <message>
         <location line="+46"/>
         <source>Confirm wallet encryption</source>
-        <translation>确认加密钱包</translation>
+        <translation>Confirm wallet encryption</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR ICECOINS&lt;/b&gt;!</source>
-        <translation>警告：如果您加密了您的钱包，但是忘记了密�?，你将会&lt;b&gt;丢失所有的莱特�?&lt;/b&gt;�?</translation>
+        <translation>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR ICECOINS&lt;/b&gt;!</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Are you sure you wish to encrypt your wallet?</source>
-        <translation>您确定需�?为钱包加密�?�？</translation>
+        <translation>Are you sure you wish to encrypt your wallet?</translation>
     </message>
     <message>
         <location line="+15"/>
         <source>IMPORTANT: Any previous backups you have made of your wallet file should be replaced with the newly generated, encrypted wallet file. For security reasons, previous backups of the unencrypted wallet file will become useless as soon as you start using the new, encrypted wallet.</source>
-        <translation>�?�?�??示：您以�?备份的钱包文件应该替�?��?最新生�?的加密钱包文件（�?新备份）。从安全性上考虑，您以�?备份的未加密的钱包文件，在您使用新的加密钱包�?�将无效，请�?新备份。</translation>
+        <translation>IMPORTANT: Any previous backups you have made of your wallet file should be replaced with the newly generated, encrypted wallet file. For security reasons, previous backups of the unencrypted wallet file will become useless as soon as you start using the new, encrypted wallet.</translation>
     </message>
     <message>
         <location line="+100"/>
         <location line="+24"/>
         <source>Warning: The Caps Lock key is on!</source>
-        <translation>警告：大写�?定键处于打开状�?�?</translation>
+        <translation>Warning: The Caps Lock key is on!</translation>
     </message>
     <message>
         <location line="-130"/>
         <location line="+58"/>
         <source>Wallet encrypted</source>
-        <translation>钱包已加密</translation>
+        <translation>Wallet encrypted</translation>
     </message>
     <message>
         <location line="-56"/>
         <source>Icecoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your icecoins from being stolen by malware infecting your computer.</source>
-        <translation>将关闭软件以完�?加密过程。 请您谨记：钱包加密并�?是万能的，电脑中毒，您的莱特�?还是有�?�能丢失。</translation>
+        <translation>Icecoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your icecoins from being stolen by malware infecting your computer.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -284,40 +286,40 @@ This product includes software developed by the OpenSSL Project for use in the O
         <location line="+42"/>
         <location line="+6"/>
         <source>Wallet encryption failed</source>
-        <translation>钱包加密失败</translation>
+        <translation>Wallet encryption failed</translation>
     </message>
     <message>
         <location line="-54"/>
         <source>Wallet encryption failed due to an internal error. Your wallet was not encrypted.</source>
-        <translation>由于一个本地错误，加密钱包�?作已�?失败。您的钱包没有被加密。</translation>
+        <translation>Wallet encryption failed due to an internal error. Your wallet was not encrypted.</translation>
     </message>
     <message>
         <location line="+7"/>
         <location line="+48"/>
         <source>The supplied passphrases do not match.</source>
-        <translation>密�?�?匹�?。</translation>
+        <translation>The supplied passphrases do not match.</translation>
     </message>
     <message>
         <location line="-37"/>
         <source>Wallet unlock failed</source>
-        <translation>钱包解�?失败</translation>
+        <translation>Wallet unlock failed</translation>
     </message>
     <message>
         <location line="+1"/>
         <location line="+11"/>
         <location line="+19"/>
         <source>The passphrase entered for the wallet decryption was incorrect.</source>
-        <translation>用于解密钱包的密�?�?正确。</translation>
+        <translation>The passphrase entered for the wallet decryption was incorrect.</translation>
     </message>
     <message>
         <location line="-20"/>
         <source>Wallet decryption failed</source>
-        <translation>钱包解密失败。</translation>
+        <translation>Wallet decryption failed</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Wallet passphrase was successfully changed.</source>
-        <translation>修改钱包密�?�?功。</translation>
+        <translation>Wallet passphrase was successfully changed.</translation>
     </message>
 </context>
 <context>
@@ -325,208 +327,208 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location filename="../bitcoingui.cpp" line="+233"/>
         <source>Sign &amp;message...</source>
-        <translation>对&amp;消�?�签�??...</translation>
+        <translation>Sign &amp;message...</translation>
     </message>
     <message>
         <location line="+280"/>
         <source>Synchronizing with network...</source>
-        <translation>正在与网络�?�步...</translation>
+        <translation>Synchronizing with network...</translation>
     </message>
     <message>
         <location line="-349"/>
         <source>&amp;Overview</source>
-        <translation>&amp;概况</translation>
+        <translation>&amp;Overview</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Show general overview of wallet</source>
-        <translation>显示钱包概况</translation>
+        <translation>Show general overview of wallet</translation>
     </message>
     <message>
         <location line="+20"/>
         <source>&amp;Transactions</source>
-        <translation>&amp;交易记录</translation>
+        <translation>&amp;Transactions</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Browse transaction history</source>
-        <translation>查看交易历�?�</translation>
+        <translation>Browse transaction history</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Edit the list of stored addresses and labels</source>
-        <translation>修改存储的地�?�和标签列表</translation>
+        <translation>Edit the list of stored addresses and labels</translation>
     </message>
     <message>
         <location line="-14"/>
         <source>Show the list of addresses for receiving payments</source>
-        <translation>显示接收支付的地�?�列表</translation>
+        <translation>Show the list of addresses for receiving payments</translation>
     </message>
     <message>
         <location line="+31"/>
         <source>E&amp;xit</source>
-        <translation>退出</translation>
+        <translation>E&amp;xit</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Quit application</source>
-        <translation>退出程�?</translation>
+        <translation>Quit application</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Show information about Icecoin</source>
-        <translation>显示莱特�?的相关信�?�</translation>
+        <translation>Show information about Icecoin</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>About &amp;Qt</source>
-        <translation>关于 &amp;Qt</translation>
+        <translation>About &amp;Qt</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Show information about Qt</source>
-        <translation>显示Qt相关信�?�</translation>
+        <translation>Show information about Qt</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>&amp;Options...</source>
-        <translation>&amp;选项...</translation>
+        <translation>&amp;Options...</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>&amp;Encrypt Wallet...</source>
-        <translation>&amp;加密钱包...</translation>
+        <translation>&amp;Encrypt Wallet...</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Backup Wallet...</source>
-        <translation>&amp;备份钱包...</translation>
+        <translation>&amp;Backup Wallet...</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>&amp;Change Passphrase...</source>
-        <translation>&amp;修改密�?...</translation>
+        <translation>&amp;Change Passphrase...</translation>
     </message>
     <message>
         <location line="+285"/>
         <source>Importing blocks from disk...</source>
-        <translation>正在从�?盘导入数�?��?�...</translation>
+        <translation>Importing blocks from disk...</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Reindexing blocks on disk...</source>
-        <translation>正在为数�?��?�建立索引...</translation>
+        <translation>Reindexing blocks on disk...</translation>
     </message>
     <message>
         <location line="-347"/>
         <source>Send coins to a Icecoin address</source>
-        <translation>�?�一个莱特�?地�?��?��?莱特�?</translation>
+        <translation>Send coins to a Icecoin address</translation>
     </message>
     <message>
         <location line="+49"/>
         <source>Modify configuration options for Icecoin</source>
-        <translation>设置选项</translation>
+        <translation>Modify configuration options for Icecoin</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>Backup wallet to another location</source>
-        <translation>备份钱包到其它文件夹</translation>
+        <translation>Backup wallet to another location</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Change the passphrase used for wallet encryption</source>
-        <translation>修改钱包加密�?�令</translation>
+        <translation>Change the passphrase used for wallet encryption</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>&amp;Debug window</source>
-        <translation>&amp;调试窗�?�</translation>
+        <translation>&amp;Debug window</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Open debugging and diagnostic console</source>
-        <translation>在诊断控制�?�调试</translation>
+        <translation>Open debugging and diagnostic console</translation>
     </message>
     <message>
         <location line="-4"/>
         <source>&amp;Verify message...</source>
-        <translation>&amp;验�?消�?�...</translation>
+        <translation>&amp;Verify message...</translation>
     </message>
     <message>
         <location line="-165"/>
         <location line="+530"/>
         <source>Icecoin</source>
-        <translation>莱特�?</translation>
+        <translation>Icecoin</translation>
     </message>
     <message>
         <location line="-530"/>
         <source>Wallet</source>
-        <translation>钱包</translation>
+        <translation>Wallet</translation>
     </message>
     <message>
         <location line="+101"/>
         <source>&amp;Send</source>
-        <translation>&amp;�?��?</translation>
+        <translation>&amp;Send</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>&amp;Receive</source>
-        <translation>&amp;接收</translation>
+        <translation>&amp;Receive</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>&amp;Addresses</source>
-        <translation>&amp;地�?�</translation>
+        <translation>&amp;Addresses</translation>
     </message>
     <message>
         <location line="+22"/>
         <source>&amp;About Icecoin</source>
-        <translation>&amp;关于莱特�?</translation>
+        <translation>&amp;About Icecoin</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>&amp;Show / Hide</source>
-        <translation>&amp;显示 / �?�?</translation>
+        <translation>&amp;Show / Hide</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Show or hide the main Window</source>
-        <translation>显示或�?�?主窗�?�</translation>
+        <translation>Show or hide the main Window</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Encrypt the private keys that belong to your wallet</source>
-        <translation>对钱包中的�?钥加密</translation>
+        <translation>Encrypt the private keys that belong to your wallet</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Sign messages with your Icecoin addresses to prove you own them</source>
-        <translation>用莱特�?地�?�关�?�的�?钥为消�?�签�??，以�?明您拥有这个莱特�?地�?�</translation>
+        <translation>Sign messages with your Icecoin addresses to prove you own them</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Verify messages to ensure they were signed with specified Icecoin addresses</source>
-        <translation>校验消�?�，确�?该消�?�是由指定的莱特�?地�?�所有者签�??的</translation>
+        <translation>Verify messages to ensure they were signed with specified Icecoin addresses</translation>
     </message>
     <message>
         <location line="+28"/>
         <source>&amp;File</source>
-        <translation>&amp;文件</translation>
+        <translation>&amp;File</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>&amp;Settings</source>
-        <translation>&amp;设置</translation>
+        <translation>&amp;Settings</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>&amp;Help</source>
-        <translation>&amp;帮助</translation>
+        <translation>&amp;Help</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>Tabs toolbar</source>
-        <translation>分页工具�?</translation>
+        <translation>Tabs toolbar</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -537,12 +539,15 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+47"/>
         <source>Icecoin client</source>
-        <translation>莱特�?客户端</translation>
+        <translation>Icecoin client</translation>
     </message>
     <message numerus="yes">
         <location line="+141"/>
         <source>%n active connection(s) to Icecoin network</source>
-        <translation><numerusform>到莱特�?网络的连接共有%n�?�</numerusform></translation>
+        <translation>
+            <numerusform>%n active connection to Icecoin network</numerusform>
+            <numerusform>%n active connections to Icecoin network</numerusform>
+        </translation>
     </message>
     <message>
         <location line="+22"/>
@@ -552,87 +557,96 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+12"/>
         <source>Processed %1 of %2 (estimated) blocks of transaction history.</source>
-        <translation>%1 / %2 个交易历�?�的区�?�已下载</translation>
+        <translation>Processed %1 of %2 (estimated) blocks of transaction history.</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Processed %1 blocks of transaction history.</source>
-        <translation>已处�?� %1 个交易历�?�数�?��?�。</translation>
+        <translation>Processed %1 blocks of transaction history.</translation>
     </message>
     <message numerus="yes">
         <location line="+20"/>
         <source>%n hour(s)</source>
-        <translation><numerusform>%n �?时�?</numerusform></translation>
+        <translation>
+            <numerusform>%n hour</numerusform>
+            <numerusform>%n hours</numerusform>
+        </translation>
     </message>
     <message numerus="yes">
         <location line="+4"/>
         <source>%n day(s)</source>
-        <translation><numerusform>%n 天�?</numerusform></translation>
+        <translation>
+            <numerusform>%n day</numerusform>
+            <numerusform>%n days</numerusform>
+        </translation>
     </message>
     <message numerus="yes">
         <location line="+4"/>
         <source>%n week(s)</source>
-        <translation><numerusform>%n 周�?</numerusform></translation>
+        <translation>
+            <numerusform>%n week</numerusform>
+            <numerusform>%n weeks</numerusform>
+        </translation>
     </message>
     <message>
         <location line="+4"/>
         <source>%1 behind</source>
-        <translation>�?��?� %1 </translation>
+        <translation>%1 behind</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Last received block was generated %1 ago.</source>
-        <translation>最新收到的区�?�产生于 %1。</translation>
+        <translation>Last received block was generated %1 ago.</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Transactions after this will not yet be visible.</source>
-        <translation>在此之�?�的交易尚未�?��?</translation>
+        <translation>Transactions after this will not yet be visible.</translation>
     </message>
     <message>
         <location line="+22"/>
         <source>Error</source>
-        <translation>错误</translation>
+        <translation>Error</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Warning</source>
-        <translation>警告</translation>
+        <translation>Warning</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Information</source>
-        <translation>信�?�</translation>
+        <translation>Information</translation>
     </message>
     <message>
         <location line="+70"/>
         <source>This transaction is over the size limit. You can still send it for a fee of %1, which goes to the nodes that process your transaction and helps to support the network. Do you want to pay the fee?</source>
-        <translation>该交易的字节数超标。您�?�以选择支付%1的交易费给处�?�您的交易的网络节点，有助于莱特�?网络的�?行。您愿�?支付这笔交易费用�?�？</translation>
+        <translation>This transaction is over the size limit. You can still send it for a fee of %1, which goes to the nodes that process your transaction and helps to support the network. Do you want to pay the fee?</translation>
     </message>
     <message>
         <location line="-140"/>
         <source>Up to date</source>
-        <translation>最新状�?</translation>
+        <translation>Up to date</translation>
     </message>
     <message>
         <location line="+31"/>
         <source>Catching up...</source>
-        <translation>更新中...</translation>
+        <translation>Catching up...</translation>
     </message>
     <message>
         <location line="+113"/>
         <source>Confirm transaction fee</source>
-        <translation>确认交易费</translation>
+        <translation>Confirm transaction fee</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Sent transaction</source>
-        <translation>已�?��?交易</translation>
+        <translation>Sent transaction</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Incoming transaction</source>
-        <translation>�?入交易</translation>
+        <translation>Incoming transaction</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -641,38 +655,38 @@ Amount: %2
 Type: %3
 Address: %4
 </source>
-        <translation>日期: %1
-金�?: %2
-类别: %3
-地�?�: %4
+        <translation>Date: %1
+Amount: %2
+Type: %3
+Address: %4
 </translation>
     </message>
     <message>
         <location line="+33"/>
         <location line="+23"/>
         <source>URI handling</source>
-        <translation>URI 处�?�</translation>
+        <translation>URI handling</translation>
     </message>
     <message>
         <location line="-23"/>
         <location line="+23"/>
         <source>URI can not be parsed! This can be caused by an invalid Icecoin address or malformed URI parameters.</source>
-        <translation>URI无法解�?�?原因�?�能是莱特�?地�?��?正确，或者URI�?�数错误。</translation>
+        <translation>URI can not be parsed! This can be caused by an invalid Icecoin address or malformed URI parameters.</translation>
     </message>
     <message>
         <location line="+17"/>
         <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;unlocked&lt;/b&gt;</source>
-        <translation>钱包已被&lt;b&gt;加密&lt;/b&gt;，当�?为&lt;b&gt;解�?&lt;/b&gt;状�?</translation>
+        <translation>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;unlocked&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;locked&lt;/b&gt;</source>
-        <translation>钱包已被&lt;b&gt;加密&lt;/b&gt;，当�?为&lt;b&gt;�?定&lt;/b&gt;状�?</translation>
+        <translation>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;locked&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+111"/>
         <source>A fatal error occurred. Icecoin can no longer continue safely and will quit.</source>
-        <translation>�?�生严�?错误。</translation>
+        <translation>A fatal error occurred. Icecoin can no longer continue safely and will quit.</translation>
     </message>
 </context>
 <context>
@@ -680,7 +694,7 @@ Address: %4
     <message>
         <location filename="../clientmodel.cpp" line="+104"/>
         <source>Network Alert</source>
-        <translation>网络警报</translation>
+        <translation>Network Alert</translation>
     </message>
 </context>
 <context>
@@ -688,67 +702,67 @@ Address: %4
     <message>
         <location filename="../forms/editaddressdialog.ui" line="+14"/>
         <source>Edit Address</source>
-        <translation>编辑地�?�</translation>
+        <translation>Edit Address</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>&amp;Label</source>
-        <translation>&amp;标签</translation>
+        <translation>&amp;Label</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>The label associated with this address book entry</source>
-        <translation>与此地�?��?�目关�?�的标签</translation>
+        <translation>The label associated with this address book entry</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>&amp;Address</source>
-        <translation>&amp;地�?�</translation>
+        <translation>&amp;Address</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>The address associated with this address book entry. This can only be modified for sending addresses.</source>
-        <translation>该地�?�与地�?�簿中的�?�目已关�?�，无法作为�?��?地�?�编辑。</translation>
+        <translation>The address associated with this address book entry. This can only be modified for sending addresses.</translation>
     </message>
     <message>
         <location filename="../editaddressdialog.cpp" line="+21"/>
         <source>New receiving address</source>
-        <translation>新接收地�?�</translation>
+        <translation>New receiving address</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>New sending address</source>
-        <translation>新�?��?地�?�</translation>
+        <translation>New sending address</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Edit receiving address</source>
-        <translation>编辑接收地�?�</translation>
+        <translation>Edit receiving address</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Edit sending address</source>
-        <translation>编辑�?��?地�?�</translation>
+        <translation>Edit sending address</translation>
     </message>
     <message>
         <location line="+76"/>
         <source>The entered address &quot;%1&quot; is already in the address book.</source>
-        <translation>输入的地�?� &quot;%1&quot; 已�?存在于地�?�簿。</translation>
+        <translation>The entered address &quot;%1&quot; is already in the address book.</translation>
     </message>
     <message>
         <location line="-5"/>
         <source>The entered address &quot;%1&quot; is not a valid Icecoin address.</source>
-        <translation>您输入的 &quot;%1&quot; �?是�?�法的莱特�?地�?�.</translation>
+        <translation>The entered address &quot;%1&quot; is not a valid Icecoin address.</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Could not unlock wallet.</source>
-        <translation>无法解�?钱包</translation>
+        <translation>Could not unlock wallet.</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>New key generation failed.</source>
-        <translation>密钥创建失败.</translation>
+        <translation>New key generation failed.</translation>
     </message>
 </context>
 <context>
@@ -762,38 +776,37 @@ Address: %4
     <message>
         <location line="-12"/>
         <source>version</source>
-        <translation>版本</translation>
+        <translation>version</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Usage:</source>
-        <translation>使用：</translation>
+        <translation>Usage:</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>command-line options</source>
-        <translation>命令行选项</translation>
+        <translation>command-line options</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>UI options</source>
-        <translation>UI选项</translation>
+        <translation>UI options</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Set language, for example &quot;de_DE&quot; (default: system locale)</source>
-        <translation>设置语言, 例如 &quot;de_DE&quot; (缺�?: 系统语言)</translation>
+        <translation>Set language, for example &quot;de_DE&quot; (default: system locale)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Start minimized</source>
-        <translation>�?�动时最�?化
-</translation>
+        <translation>Start minimized</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Show splash screen on startup (default: 1)</source>
-        <translation>�?�动时显示版�?�页 (缺�?: 1)</translation>
+        <translation>Show splash screen on startup (default: 1)</translation>
     </message>
 </context>
 <context>
@@ -801,209 +814,209 @@ Address: %4
     <message>
         <location filename="../forms/optionsdialog.ui" line="+14"/>
         <source>Options</source>
-        <translation>选项</translation>
+        <translation>Options</translation>
     </message>
     <message>
         <location line="+16"/>
         <source>&amp;Main</source>
-        <translation>&amp;主�?的</translation>
+        <translation>&amp;Main</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Optional transaction fee per kB that helps make sure your transactions are processed quickly. Most transactions are 1 kB.</source>
-        <translation type="unfinished"/>
+        <translation>Optional transaction fee per kB that helps make sure your transactions are processed quickly. Most transactions are 1 kB.</translation>
     </message>
     <message>
         <location line="+15"/>
         <source>Pay transaction &amp;fee</source>
-        <translation>支付交易 &amp;费用</translation>
+        <translation>Pay transaction &amp;fee</translation>
     </message>
     <message>
         <location line="+31"/>
         <source>Automatically start Icecoin after logging in to the system.</source>
-        <translation>登录系统�?�自动开�?�莱特�?客户端</translation>
+        <translation>Automatically start Icecoin after logging in to the system.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Start Icecoin on system login</source>
-        <translation>�?�动时&amp;�?行</translation>
+        <translation>&amp;Start Icecoin on system login</translation>
     </message>
     <message>
         <location line="+35"/>
         <source>Reset all client options to default.</source>
-        <translation>�?��?客户端的缺�?设置</translation>
+        <translation>Reset all client options to default.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Reset Options</source>
-        <translation>�?��?缺�?设置</translation>
+        <translation>&amp;Reset Options</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>&amp;Network</source>
-        <translation>&amp;网络</translation>
+        <translation>&amp;Network</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Automatically open the Icecoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>自动在路由器中打开莱特�?端�?�。�?�有当您的路由器开�?� UPnP 选项时此功能�?有效。</translation>
+        <translation>Automatically open the Icecoin client port on the router. This only works when your router supports UPnP and it is enabled.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Map port using &amp;UPnP</source>
-        <translation>使用 &amp;UPnP 映射端�?�</translation>
+        <translation>Map port using &amp;UPnP</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Connect to the Icecoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>通过代�?��?务器连接莱特�?网络(例如：通过Tor连接)</translation>
+        <translation>Connect to the Icecoin network through a SOCKS proxy (e.g. when connecting through Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Connect through SOCKS proxy:</source>
-        <translation>&amp;通过Socks代�?�连接:</translation>
+        <translation>&amp;Connect through SOCKS proxy:</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>Proxy &amp;IP:</source>
-        <translation>代�?��?务器&amp;IP:</translation>
+        <translation>Proxy &amp;IP:</translation>
     </message>
     <message>
         <location line="+19"/>
         <source>IP address of the proxy (e.g. 127.0.0.1)</source>
-        <translation>代�?��?务器IP (如 127.0.0.1)</translation>
+        <translation>IP address of the proxy (e.g. 127.0.0.1)</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>&amp;Port:</source>
-        <translation>&amp;端�?�:</translation>
+        <translation>&amp;Port:</translation>
     </message>
     <message>
         <location line="+19"/>
         <source>Port of the proxy (e.g. 9050)</source>
-        <translation>代�?�端�?�(例如 9050)</translation>
+        <translation>Port of the proxy (e.g. 9050)</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>SOCKS &amp;Version:</source>
-        <translation>Socks &amp;版本</translation>
+        <translation>SOCKS &amp;Version:</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>SOCKS version of the proxy (e.g. 5)</source>
-        <translation>Socks代�?�版本 (例如 5)</translation>
+        <translation>SOCKS version of the proxy (e.g. 5)</translation>
     </message>
     <message>
         <location line="+36"/>
         <source>&amp;Window</source>
-        <translation>&amp;窗�?�</translation>
+        <translation>&amp;Window</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Show only a tray icon after minimizing the window.</source>
-        <translation>最�?化窗�?��?�仅显示托盘图标</translation>
+        <translation>Show only a tray icon after minimizing the window.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Minimize to the tray instead of the taskbar</source>
-        <translation>&amp;最�?化到托盘</translation>
+        <translation>&amp;Minimize to the tray instead of the taskbar</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Minimize instead of exit the application when the window is closed. When this option is enabled, the application will be closed only after selecting Quit in the menu.</source>
-        <translation>当窗�?�关闭时程�?最�?化而�?是退出。当使用该选项时，程�?�?�能通过在�?��?�中选择退出�?�关闭</translation>
+        <translation>Minimize instead of exit the application when the window is closed. When this option is enabled, the application will be closed only after selecting Quit in the menu.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>M&amp;inimize on close</source>
-        <translation>�?�击关闭按钮最�?化</translation>
+        <translation>M&amp;inimize on close</translation>
     </message>
     <message>
         <location line="+21"/>
         <source>&amp;Display</source>
-        <translation>&amp;显示</translation>
+        <translation>&amp;Display</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>User Interface &amp;language:</source>
-        <translation>用户界�?�&amp;语言:</translation>
+        <translation>User Interface &amp;language:</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>The user interface language can be set here. This setting will take effect after restarting Icecoin.</source>
-        <translation>在这里设置用户界�?�的语言。设置将在客户端�?�?��?�生效。</translation>
+        <translation>The user interface language can be set here. This setting will take effect after restarting Icecoin.</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>&amp;Unit to show amounts in:</source>
-        <translation>&amp;莱特�?金�?�?��?:</translation>
+        <translation>&amp;Unit to show amounts in:</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Choose the default subdivision unit to show in the interface and when sending coins.</source>
-        <translation>选择莱特�?�?��?。</translation>
+        <translation>Choose the default subdivision unit to show in the interface and when sending coins.</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>Whether to show Icecoin addresses in the transaction list or not.</source>
-        <translation>是�?�需�?在交易清�?�中显示莱特�?地�?�。</translation>
+        <translation>Whether to show Icecoin addresses in the transaction list or not.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Display addresses in transaction list</source>
-        <translation>在交易清�?�中&amp;显示莱特�?地�?�</translation>
+        <translation>&amp;Display addresses in transaction list</translation>
     </message>
     <message>
         <location line="+71"/>
         <source>&amp;OK</source>
-        <translation>&amp;确定</translation>
+        <translation>&amp;OK</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>&amp;Cancel</source>
-        <translation>&amp;�?�消</translation>
+        <translation>&amp;Cancel</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>&amp;Apply</source>
-        <translation>&amp;应用</translation>
+        <translation>&amp;Apply</translation>
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="+53"/>
         <source>default</source>
-        <translation>缺�?</translation>
+        <translation>default</translation>
     </message>
     <message>
         <location line="+130"/>
         <source>Confirm options reset</source>
-        <translation>确认�?��?缺�?设置</translation>
+        <translation>Confirm options reset</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Some settings may require a client restart to take effect.</source>
-        <translation>�?些设置选项需�?�?�?�客户端�?能生效</translation>
+        <translation>Some settings may require a client restart to take effect.</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Do you want to proceed?</source>
-        <translation>您希望继续�?�？</translation>
+        <translation>Do you want to proceed?</translation>
     </message>
     <message>
         <location line="+42"/>
         <location line="+9"/>
         <source>Warning</source>
-        <translation>警告</translation>
+        <translation>Warning</translation>
     </message>
     <message>
         <location line="-9"/>
         <location line="+9"/>
         <source>This setting will take effect after restarting Icecoin.</source>
-        <translation>需�?�?�?�客户端软件�?能生效。</translation>
+        <translation>This setting will take effect after restarting Icecoin.</translation>
     </message>
     <message>
         <location line="+29"/>
         <source>The supplied proxy address is invalid.</source>
-        <translation>�??供的代�?��?务器地�?�无效。</translation>
+        <translation>The supplied proxy address is invalid.</translation>
     </message>
 </context>
 <context>
@@ -1011,59 +1024,59 @@ Address: %4
     <message>
         <location filename="../forms/overviewpage.ui" line="+14"/>
         <source>Form</source>
-        <translation>表�?�</translation>
+        <translation>Form</translation>
     </message>
     <message>
         <location line="+50"/>
         <location line="+166"/>
         <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Icecoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>现在显示的消�?��?�能是过期的. 在连接上莱特�?网络节点�?�，您的钱包将自动与网络�?�步，但是这个过程还没有完�?.</translation>
+        <translation>The displayed information may be out of date. Your wallet automatically synchronizes with the Icecoin network after a connection is established, but this process has not completed yet.</translation>
     </message>
     <message>
         <location line="-124"/>
         <source>Balance:</source>
-        <translation>余�?：</translation>
+        <translation>Balance:</translation>
     </message>
     <message>
         <location line="+29"/>
         <source>Unconfirmed:</source>
-        <translation>未确认：</translation>
+        <translation>Unconfirmed:</translation>
     </message>
     <message>
         <location line="-78"/>
         <source>Wallet</source>
-        <translation>钱包</translation>
+        <translation>Wallet</translation>
     </message>
     <message>
         <location line="+107"/>
         <source>Immature:</source>
-        <translation>未�?熟的：</translation>
+        <translation>Immature:</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Mined balance that has not yet matured</source>
-        <translation>尚未�?熟的挖矿收入余�?</translation>
+        <translation>Mined balance that has not yet matured</translation>
     </message>
     <message>
         <location line="+46"/>
         <source>&lt;b&gt;Recent transactions&lt;/b&gt;</source>
-        <translation>&lt;b&gt;最近交易记录&lt;/b&gt;</translation>
+        <translation>&lt;b&gt;Recent transactions&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="-101"/>
         <source>Your current balance</source>
-        <translation>您的当�?余�?</translation>
+        <translation>Your current balance</translation>
     </message>
     <message>
         <location line="+29"/>
         <source>Total of transactions that have yet to be confirmed, and do not yet count toward the current balance</source>
-        <translation>尚未确认的交易总�?, 未计入当�?余�?</translation>
+        <translation>Total of transactions that have yet to be confirmed, and do not yet count toward the current balance</translation>
     </message>
     <message>
         <location filename="../overviewpage.cpp" line="+116"/>
         <location line="+1"/>
         <source>out of sync</source>
-        <translation>数�?��?�步中</translation>
+        <translation>out of sync</translation>
     </message>
 </context>
 <context>
@@ -1071,7 +1084,7 @@ Address: %4
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
         <source>Cannot start icecoin: click-to-pay handler</source>
-        <translation>暂时无法�?�动莱特�?：点击支付功能</translation>
+        <translation>Cannot start icecoin: click-to-pay handler</translation>
     </message>
 </context>
 <context>
@@ -1079,57 +1092,57 @@ Address: %4
     <message>
         <location filename="../forms/qrcodedialog.ui" line="+14"/>
         <source>QR Code Dialog</source>
-        <translation>二维�?对�?框</translation>
+        <translation>QR Code Dialog</translation>
     </message>
     <message>
         <location line="+59"/>
         <source>Request Payment</source>
-        <translation>请求付款</translation>
+        <translation>Request Payment</translation>
     </message>
     <message>
         <location line="+56"/>
         <source>Amount:</source>
-        <translation>金�?：</translation>
+        <translation>Amount:</translation>
     </message>
     <message>
         <location line="-44"/>
         <source>Label:</source>
-        <translation>标签：</translation>
+        <translation>Label:</translation>
     </message>
     <message>
         <location line="+19"/>
         <source>Message:</source>
-        <translation>消�?�：</translation>
+        <translation>Message:</translation>
     </message>
     <message>
         <location line="+71"/>
         <source>&amp;Save As...</source>
-        <translation>&amp;�?�存为</translation>
+        <translation>&amp;Save As...</translation>
     </message>
     <message>
         <location filename="../qrcodedialog.cpp" line="+62"/>
         <source>Error encoding URI into QR Code.</source>
-        <translation>将 URI 转�?��?二维�?失败.</translation>
+        <translation>Error encoding URI into QR Code.</translation>
     </message>
     <message>
         <location line="+40"/>
         <source>The entered amount is invalid, please check.</source>
-        <translation>输入的金�?�?�法，请检查。</translation>
+        <translation>The entered amount is invalid, please check.</translation>
     </message>
     <message>
         <location line="+23"/>
         <source>Resulting URI too long, try to reduce the text for label / message.</source>
-        <translation>URI 太长, 请试�?�精简标签/消�?�的内容.</translation>
+        <translation>Resulting URI too long, try to reduce the text for label / message.</translation>
     </message>
     <message>
         <location line="+25"/>
         <source>Save QR Code</source>
-        <translation>�?存二维�?</translation>
+        <translation>Save QR Code</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>PNG Images (*.png)</source>
-        <translation>PNG图�?文件(*.png)</translation>
+        <translation>PNG Images (*.png)</translation>
     </message>
 </context>
 <context>
@@ -1137,7 +1150,7 @@ Address: %4
     <message>
         <location filename="../forms/rpcconsole.ui" line="+46"/>
         <source>Client name</source>
-        <translation>客户端�??称</translation>
+        <translation>Client name</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1151,132 +1164,132 @@ Address: %4
         <location line="+23"/>
         <location filename="../rpcconsole.cpp" line="+339"/>
         <source>N/A</source>
-        <translation>�?�?�用</translation>
+        <translation>N/A</translation>
     </message>
     <message>
         <location line="-217"/>
         <source>Client version</source>
-        <translation>客户端版本</translation>
+        <translation>Client version</translation>
     </message>
     <message>
         <location line="-45"/>
         <source>&amp;Information</source>
-        <translation>&amp;信�?�</translation>
+        <translation>&amp;Information</translation>
     </message>
     <message>
         <location line="+68"/>
         <source>Using OpenSSL version</source>
-        <translation>使用OpenSSL版本</translation>
+        <translation>Using OpenSSL version</translation>
     </message>
     <message>
         <location line="+49"/>
         <source>Startup time</source>
-        <translation>�?�动时间</translation>
+        <translation>Startup time</translation>
     </message>
     <message>
         <location line="+29"/>
         <source>Network</source>
-        <translation>网络</translation>
+        <translation>Network</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Number of connections</source>
-        <translation>连接数</translation>
+        <translation>Number of connections</translation>
     </message>
     <message>
         <location line="+23"/>
         <source>On testnet</source>
-        <translation>当�?为莱特�?测试网络</translation>
+        <translation>On testnet</translation>
     </message>
     <message>
         <location line="+23"/>
         <source>Block chain</source>
-        <translation>数�?�链</translation>
+        <translation>Block chain</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Current number of blocks</source>
-        <translation>当�?数�?��?�数�?</translation>
+        <translation>Current number of blocks</translation>
     </message>
     <message>
         <location line="+23"/>
         <source>Estimated total blocks</source>
-        <translation>预计数�?��?�数�?</translation>
+        <translation>Estimated total blocks</translation>
     </message>
     <message>
         <location line="+23"/>
         <source>Last block time</source>
-        <translation>上一数�?��?�时间</translation>
+        <translation>Last block time</translation>
     </message>
     <message>
         <location line="+52"/>
         <source>&amp;Open</source>
-        <translation>&amp;打开</translation>
+        <translation>&amp;Open</translation>
     </message>
     <message>
         <location line="+16"/>
         <source>Command-line options</source>
-        <translation>命令行选项</translation>
+        <translation>Command-line options</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Show the Icecoin-Qt help message to get a list with possible Icecoin command-line options.</source>
-        <translation>显示Icecoin命令行选项帮助信�?�</translation>
+        <translation>Show the Icecoin-Qt help message to get a list with possible Icecoin command-line options.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Show</source>
-        <translation>&amp;显示</translation>
+        <translation>&amp;Show</translation>
     </message>
     <message>
         <location line="+24"/>
         <source>&amp;Console</source>
-        <translation>&amp;控制�?�</translation>
+        <translation>&amp;Console</translation>
     </message>
     <message>
         <location line="-260"/>
         <source>Build date</source>
-        <translation>创建时间</translation>
+        <translation>Build date</translation>
     </message>
     <message>
         <location line="-104"/>
         <source>Icecoin - Debug window</source>
-        <translation>莱特�? - 调试窗�?�</translation>
+        <translation>Icecoin - Debug window</translation>
     </message>
     <message>
         <location line="+25"/>
         <source>Icecoin Core</source>
-        <translation>莱特�?核心</translation>
+        <translation>Icecoin Core</translation>
     </message>
     <message>
         <location line="+279"/>
         <source>Debug log file</source>
-        <translation>调试日志文件</translation>
+        <translation>Debug log file</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Open the Icecoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>打开当�?目录中的调试日志文件。日志文件大的�?�?�能�?等上几秒钟。</translation>
+        <translation>Open the Icecoin debug log file from the current data directory. This can take a few seconds for large log files.</translation>
     </message>
     <message>
         <location line="+102"/>
         <source>Clear console</source>
-        <translation>清空控制�?�</translation>
+        <translation>Clear console</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-30"/>
         <source>Welcome to the Icecoin RPC console.</source>
-        <translation>欢迎�?�到 RPC 控制�?�.</translation>
+        <translation>Welcome to the Icecoin RPC console.</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.</source>
-        <translation>使用上下方�?�键�?览历�?�,  &lt;b&gt;Ctrl-L&lt;/b&gt;清除�?幕.</translation>
+        <translation>Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Type &lt;b&gt;help&lt;/b&gt; for an overview of available commands.</source>
-        <translation>使用 &lt;b&gt;help&lt;/b&gt; 命令显示帮助信�?�.</translation>
+        <translation>Type &lt;b&gt;help&lt;/b&gt; for an overview of available commands.</translation>
     </message>
 </context>
 <context>
@@ -1291,32 +1304,32 @@ Address: %4
         <location line="+5"/>
         <location line="+5"/>
         <source>Send Coins</source>
-        <translation>�?��?货�?</translation>
+        <translation>Send Coins</translation>
     </message>
     <message>
         <location line="+50"/>
         <source>Send to multiple recipients at once</source>
-        <translation>一次�?��?给多个接收者</translation>
+        <translation>Send to multiple recipients at once</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Add &amp;Recipient</source>
-        <translation>添加收款人</translation>
+        <translation>Add &amp;Recipient</translation>
     </message>
     <message>
         <location line="+20"/>
         <source>Remove all transaction fields</source>
-        <translation>移除所有交易项</translation>
+        <translation>Remove all transaction fields</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Clear &amp;All</source>
-        <translation>清除 &amp;所有</translation>
+        <translation>Clear &amp;All</translation>
     </message>
     <message>
         <location line="+22"/>
         <source>Balance:</source>
-        <translation>余�?：</translation>
+        <translation>Balance:</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1326,67 +1339,67 @@ Address: %4
     <message>
         <location line="+31"/>
         <source>Confirm the send action</source>
-        <translation>确认并�?��?货�?</translation>
+        <translation>Confirm the send action</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>S&amp;end</source>
-        <translation>�?��?</translation>
+        <translation>S&amp;end</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-59"/>
         <source>&lt;b&gt;%1&lt;/b&gt; to %2 (%3)</source>
-        <translation>&lt;b&gt;%1&lt;/b&gt; 到 %2 (%3)</translation>
+        <translation>&lt;b&gt;%1&lt;/b&gt; to %2 (%3)</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Confirm send coins</source>
-        <translation>确认�?��?货�?</translation>
+        <translation>Confirm send coins</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Are you sure you want to send %1?</source>
-        <translation>确定您�?�?��? %1?</translation>
+        <translation>Are you sure you want to send %1?</translation>
     </message>
     <message>
         <location line="+0"/>
         <source> and </source>
-        <translation> 和 </translation>
+        <translation> and </translation>
     </message>
     <message>
         <location line="+23"/>
         <source>The recipient address is not valid, please recheck.</source>
-        <translation>收款人地�?��?�?�法，请检查。</translation>
+        <translation>The recipient address is not valid, please recheck.</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>The amount to pay must be larger than 0.</source>
-        <translation>支付金�?必须大于0.</translation>
+        <translation>The amount to pay must be larger than 0.</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>The amount exceeds your balance.</source>
-        <translation>金�?超出您的账上余�?。</translation>
+        <translation>The amount exceeds your balance.</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>The total exceeds your balance when the %1 transaction fee is included.</source>
-        <translation>计入 %1 交易费�?�的金�?超出您的账上余�?。</translation>
+        <translation>The total exceeds your balance when the %1 transaction fee is included.</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Duplicate address found, can only send to each address once per send operation.</source>
-        <translation>�?�现�?�?的地�?�, �?次�?�能对�?�一地�?��?��?一次.</translation>
+        <translation>Duplicate address found, can only send to each address once per send operation.</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Error: Transaction creation failed!</source>
-        <translation>错误：创建交易失败�?</translation>
+        <translation>Error: Transaction creation failed!</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Error: The transaction was rejected. This might happen if some of the coins in your wallet were already spent, such as if you used a copy of wallet.dat and coins were spent in the copy but not marked as spent here.</source>
-        <translation>错误: 交易被拒�?. 如果您使用的是备份钱包，�?�能存在两个钱包�?�?�步的情况，�?�一个钱包中的莱特�?已�?被使用，但本地的这个钱包尚没有记录。</translation>
+        <translation>Error: The transaction was rejected. This might happen if some of the coins in your wallet were already spent, such as if you used a copy of wallet.dat and coins were spent in the copy but not marked as spent here.</translation>
     </message>
 </context>
 <context>
@@ -1394,38 +1407,38 @@ Address: %4
     <message>
         <location filename="../forms/sendcoinsentry.ui" line="+14"/>
         <source>Form</source>
-        <translation>表�?�</translation>
+        <translation>Form</translation>
     </message>
     <message>
         <location line="+15"/>
         <source>A&amp;mount:</source>
-        <translation>金�?</translation>
+        <translation>A&amp;mount:</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Pay &amp;To:</source>
-        <translation>付款&amp;给：</translation>
+        <translation>Pay &amp;To:</translation>
     </message>
     <message>
         <location line="+34"/>
         <source>The address to send the payment to (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>付款给这个地�?�  (例如 Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <translation>The address to send the payment to (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+60"/>
         <location filename="../sendcoinsentry.cpp" line="+26"/>
         <source>Enter a label for this address to add it to your address book</source>
-        <translation>为这个地�?�输入一个标签，以便将它添加到您的地�?�簿</translation>
+        <translation>Enter a label for this address to add it to your address book</translation>
     </message>
     <message>
         <location line="-78"/>
         <source>&amp;Label:</source>
-        <translation>&amp;标签：</translation>
+        <translation>&amp;Label:</translation>
     </message>
     <message>
         <location line="+28"/>
         <source>Choose address from address book</source>
-        <translation>从地�?�簿选择地�?�</translation>
+        <translation>Choose address from address book</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1435,7 +1448,7 @@ Address: %4
     <message>
         <location line="+7"/>
         <source>Paste address from clipboard</source>
-        <translation>从剪贴�?�粘贴地�?�</translation>
+        <translation>Paste address from clipboard</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1445,12 +1458,12 @@ Address: %4
     <message>
         <location line="+7"/>
         <source>Remove this recipient</source>
-        <translation>移除此接收者</translation>
+        <translation>Remove this recipient</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
         <source>Enter a Icecoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>请输入莱特�?地�?� (例如: Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <translation>Enter a Icecoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
 </context>
 <context>
@@ -1458,28 +1471,28 @@ Address: %4
     <message>
         <location filename="../forms/signverifymessagedialog.ui" line="+14"/>
         <source>Signatures - Sign / Verify a Message</source>
-        <translation>签�?? - 为消�?�签�??/验�?签�??消�?�</translation>
+        <translation>Signatures - Sign / Verify a Message</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>&amp;Sign Message</source>
-        <translation>&amp;签�??消�?�</translation>
+        <translation>&amp;Sign Message</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>You can sign messages with your addresses to prove you own them. Be careful not to sign anything vague, as phishing attacks may try to trick you into signing your identity over to them. Only sign fully-detailed statements you agree to.</source>
-        <translation>您�?�以用你的地�?�对消�?�进行签�??，以�?明您是该地�?�的所有人。注�?�?�?对模棱两�?�的消�?�签�??，以�?�?��?�钓鱼�?攻击。请确�?消�?�内容准确的表达了您的真实�?愿。</translation>
+        <translation>You can sign messages with your addresses to prove you own them. Be careful not to sign anything vague, as phishing attacks may try to trick you into signing your identity over to them. Only sign fully-detailed statements you agree to.</translation>
     </message>
     <message>
         <location line="+18"/>
         <source>The address to sign the message with (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>用于签�??消�?�的地�?�(例如: Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <translation>The address to sign the message with (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+10"/>
         <location line="+213"/>
         <source>Choose an address from the address book</source>
-        <translation>从地�?�簿选择地�?�</translation>
+        <translation>Choose an address from the address book</translation>
     </message>
     <message>
         <location line="-203"/>
@@ -1490,7 +1503,7 @@ Address: %4
     <message>
         <location line="-203"/>
         <source>Paste address from clipboard</source>
-        <translation>从剪贴�?�粘贴地�?�</translation>
+        <translation>Paste address from clipboard</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1500,90 +1513,90 @@ Address: %4
     <message>
         <location line="+12"/>
         <source>Enter the message you want to sign here</source>
-        <translation>请输入您�?�?��?的签�??消�?�</translation>
+        <translation>Enter the message you want to sign here</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Signature</source>
-        <translation>签�??</translation>
+        <translation>Signature</translation>
     </message>
     <message>
         <location line="+27"/>
         <source>Copy the current signature to the system clipboard</source>
-        <translation>�?制当�?签�??至剪切�?�</translation>
+        <translation>Copy the current signature to the system clipboard</translation>
     </message>
     <message>
         <location line="+21"/>
         <source>Sign the message to prove you own this Icecoin address</source>
-        <translation>签�??消�?�，�?明这个地�?�属于您。</translation>
+        <translation>Sign the message to prove you own this Icecoin address</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Sign &amp;Message</source>
-        <translation>消�?�签�??</translation>
+        <translation>Sign &amp;Message</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Reset all sign message fields</source>
-        <translation>清空所有签�??消�?��?</translation>
+        <translation>Reset all sign message fields</translation>
     </message>
     <message>
         <location line="+3"/>
         <location line="+146"/>
         <source>Clear &amp;All</source>
-        <translation>清除 &amp;所有</translation>
+        <translation>Clear &amp;All</translation>
     </message>
     <message>
         <location line="-87"/>
         <source>&amp;Verify Message</source>
-        <translation>&amp;验�?消�?�</translation>
+        <translation>&amp;Verify Message</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Enter the signing address, message (ensure you copy line breaks, spaces, tabs, etc. exactly) and signature below to verify the message. Be careful not to read more into the signature than what is in the signed message itself, to avoid being tricked by a man-in-the-middle attack.</source>
-        <translation>在下�?�输入签�??地�?�，消�?�（请确�?�?�行符�?空格符�?制表符等等一个�?�?）和签�??以验�?消�?�。请确�?签�??信�?�准确，�??防中间人攻击。</translation>
+        <translation>Enter the signing address, message (ensure you copy line breaks, spaces, tabs, etc. exactly) and signature below to verify the message. Be careful not to read more into the signature than what is in the signed message itself, to avoid being tricked by a man-in-the-middle attack.</translation>
     </message>
     <message>
         <location line="+21"/>
         <source>The address the message was signed with (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>用于签�??消�?�的地�?�(例如: Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <translation>The address the message was signed with (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+40"/>
         <source>Verify the message to ensure it was signed with the specified Icecoin address</source>
-        <translation>验�?消�?�，确�?消�?�是由指定的莱特�?地�?�签�??过的。</translation>
+        <translation>Verify the message to ensure it was signed with the specified Icecoin address</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Verify &amp;Message</source>
-        <translation>验�?消�?�签�??</translation>
+        <translation>Verify &amp;Message</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Reset all verify message fields</source>
-        <translation>清空所有验�?消�?��?</translation>
+        <translation>Reset all verify message fields</translation>
     </message>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
         <source>Enter a Icecoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>请输入莱特�?地�?� (例如: Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <translation>Enter a Icecoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="-2"/>
         <source>Click &quot;Sign Message&quot; to generate signature</source>
-        <translation>�?�击“签�??消�?�“产生签�??。</translation>
+        <translation>Click &quot;Sign Message&quot; to generate signature</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Enter Icecoin signature</source>
-        <translation>输入莱特�?签�??</translation>
+        <translation>Enter Icecoin signature</translation>
     </message>
     <message>
         <location line="+82"/>
         <location line="+81"/>
         <source>The entered address is invalid.</source>
-        <translation>输入的地�?��?�法。</translation>
+        <translation>The entered address is invalid.</translation>
     </message>
     <message>
         <location line="-81"/>
@@ -1591,59 +1604,59 @@ Address: %4
         <location line="+73"/>
         <location line="+8"/>
         <source>Please check the address and try again.</source>
-        <translation>请检查地�?��?��?试。</translation>
+        <translation>Please check the address and try again.</translation>
     </message>
     <message>
         <location line="-81"/>
         <location line="+81"/>
         <source>The entered address does not refer to a key.</source>
-        <translation>输入的地�?�没有关�?�的公�?钥对。</translation>
+        <translation>The entered address does not refer to a key.</translation>
     </message>
     <message>
         <location line="-73"/>
         <source>Wallet unlock was cancelled.</source>
-        <translation>钱包解�?动作�?�消。</translation>
+        <translation>Wallet unlock was cancelled.</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Private key for the entered address is not available.</source>
-        <translation>找�?到输入地�?�关�?�的�?钥。</translation>
+        <translation>Private key for the entered address is not available.</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>Message signing failed.</source>
-        <translation>消�?�签�??失败。</translation>
+        <translation>Message signing failed.</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Message signed.</source>
-        <translation>消�?�已签�??。</translation>
+        <translation>Message signed.</translation>
     </message>
     <message>
         <location line="+59"/>
         <source>The signature could not be decoded.</source>
-        <translation>签�??无法解�?。</translation>
+        <translation>The signature could not be decoded.</translation>
     </message>
     <message>
         <location line="+0"/>
         <location line="+13"/>
         <source>Please check the signature and try again.</source>
-        <translation>请检查签�??�?��?试。</translation>
+        <translation>Please check the signature and try again.</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>The signature did not match the message digest.</source>
-        <translation>签�??与消�?�摘�?�?匹�?。</translation>
+        <translation>The signature did not match the message digest.</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Message verification failed.</source>
-        <translation>消�?�验�?失败。</translation>
+        <translation>Message verification failed.</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Message verified.</source>
-        <translation>消�?�验�?�?功。</translation>
+        <translation>Message verified.</translation>
     </message>
 </context>
 <context>
@@ -1651,7 +1664,7 @@ Address: %4
     <message>
         <location filename="../splashscreen.cpp" line="+22"/>
         <source>The Icecoin developers</source>
-        <translation>Icecoin-qt 客户端开�?�团队</translation>
+        <translation>The Icecoin developers</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1664,71 +1677,74 @@ Address: %4
     <message>
         <location filename="../transactiondesc.cpp" line="+20"/>
         <source>Open until %1</source>
-        <translation>至 %1 个数�?��?�时开�?�</translation>
+        <translation>Open until %1</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>%1/offline</source>
-        <translation>%1 / 离线</translation>
+        <translation>%1/offline</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>%1/unconfirmed</source>
-        <translation>%1/未确认</translation>
+        <translation>%1/unconfirmed</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>%1 confirmations</source>
-        <translation>%1 确认项</translation>
+        <translation>%1 confirmations</translation>
     </message>
     <message>
         <location line="+18"/>
         <source>Status</source>
-        <translation>状�?</translation>
+        <translation>Status</translation>
     </message>
     <message numerus="yes">
         <location line="+7"/>
         <source>, broadcast through %n node(s)</source>
-        <translation><numerusform>通过 %n 个节点广播</numerusform></translation>
+        <translation>
+            <numerusform>, broadcast through %n node</numerusform>
+            <numerusform>, broadcast through %n nodes</numerusform>
+        </translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Date</source>
-        <translation>日期</translation>
+        <translation>Date</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Source</source>
-        <translation>�?</translation>
+        <translation>Source</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Generated</source>
-        <translation>生�?</translation>
+        <translation>Generated</translation>
     </message>
     <message>
         <location line="+5"/>
         <location line="+17"/>
         <source>From</source>
-        <translation>�?�自</translation>
+        <translation>From</translation>
     </message>
     <message>
         <location line="+1"/>
         <location line="+22"/>
         <location line="+58"/>
         <source>To</source>
-        <translation>到</translation>
+        <translation>To</translation>
     </message>
     <message>
         <location line="-77"/>
         <location line="+2"/>
         <source>own address</source>
-        <translation>自己的地�?�</translation>
+        <translation>own address</translation>
     </message>
     <message>
         <location line="-2"/>
         <source>label</source>
-        <translation>标签</translation>
+        <translation>label</translation>
     </message>
     <message>
         <location line="+37"/>
@@ -1737,17 +1753,20 @@ Address: %4
         <location line="+17"/>
         <location line="+30"/>
         <source>Credit</source>
-        <translation>收入</translation>
+        <translation>Credit</translation>
     </message>
     <message numerus="yes">
         <location line="-102"/>
         <source>matures in %n more block(s)</source>
-        <translation><numerusform>将在 %n 个数�?��?��?��?熟</numerusform></translation>
+        <translation>
+            <numerusform>matures in %n more block</numerusform>
+            <numerusform>matures in %n more blocks</numerusform>
+        </translation>
     </message>
     <message>
         <location line="+2"/>
         <source>not accepted</source>
-        <translation>未被接�?�</translation>
+        <translation>not accepted</translation>
     </message>
     <message>
         <location line="+44"/>
@@ -1755,82 +1774,85 @@ Address: %4
         <location line="+15"/>
         <location line="+30"/>
         <source>Debit</source>
-        <translation>支出</translation>
+        <translation>Debit</translation>
     </message>
     <message>
         <location line="-39"/>
         <source>Transaction fee</source>
-        <translation>交易费</translation>
+        <translation>Transaction fee</translation>
     </message>
     <message>
         <location line="+16"/>
         <source>Net amount</source>
-        <translation>净�?</translation>
+        <translation>Net amount</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Message</source>
-        <translation>消�?�</translation>
+        <translation>Message</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Comment</source>
-        <translation>备注</translation>
+        <translation>Comment</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Transaction ID</source>
-        <translation>交易ID</translation>
+        <translation>Transaction ID</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Generated coins must mature 120 blocks before they can be spent. When you generated this block, it was broadcast to the network to be added to the block chain. If it fails to get into the chain, its state will change to &quot;not accepted&quot; and it won&apos;t be spendable. This may occasionally happen if another node generates a block within a few seconds of yours.</source>
-        <translation>新挖出的莱特�?必须等确120个确认�?能使用。您生产出的数�?��?�，将被广播到全网并添加到数�?��?�链。如果入链失败，状�?将�?�为“未被接�?��?，�?味�?�您的数�?��?�竞争失败，挖出的莱特�?将�?能使用。当�?个节点先于你几秒生产出新的数�?��?�，这�?情况会�?�尔�?�生。</translation>
+        <translation>Generated coins must mature 120 blocks before they can be spent. When you generated this block, it was broadcast to the network to be added to the block chain. If it fails to get into the chain, its state will change to &quot;not accepted&quot; and it won&apos;t be spendable. This may occasionally happen if another node generates a block within a few seconds of yours.</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Debug information</source>
-        <translation>调试信�?�</translation>
+        <translation>Debug information</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Transaction</source>
-        <translation>交易</translation>
+        <translation>Transaction</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Inputs</source>
-        <translation>输入</translation>
+        <translation>Inputs</translation>
     </message>
     <message>
         <location line="+23"/>
         <source>Amount</source>
-        <translation>金�?</translation>
+        <translation>Amount</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>true</source>
-        <translation>正确</translation>
+        <translation>true</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>false</source>
-        <translation>错误</translation>
+        <translation>false</translation>
     </message>
     <message>
         <location line="-209"/>
         <source>, has not been successfully broadcast yet</source>
-        <translation>, 未被�?功广播</translation>
+        <translation>, has not been successfully broadcast yet</translation>
     </message>
     <message numerus="yes">
         <location line="-35"/>
         <source>Open for %n more block(s)</source>
-        <translation><numerusform>Open for %n more block</numerusform></translation>
+        <translation>
+            <numerusform>Open for %n more block</numerusform>
+            <numerusform>Open for %n more blocks</numerusform>
+        </translation>
     </message>
     <message>
         <location line="+70"/>
         <source>unknown</source>
-        <translation>未知</translation>
+        <translation>unknown</translation>
     </message>
 </context>
 <context>
@@ -1838,12 +1860,12 @@ Address: %4
     <message>
         <location filename="../forms/transactiondescdialog.ui" line="+14"/>
         <source>Transaction details</source>
-        <translation>交易明细</translation>
+        <translation>Transaction details</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>This pane shows a detailed description of the transaction</source>
-        <translation>当�?�?��?�显示了交易的详细信�?�</translation>
+        <translation>This pane shows a detailed description of the transaction</translation>
     </message>
 </context>
 <context>
@@ -1851,87 +1873,93 @@ Address: %4
     <message>
         <location filename="../transactiontablemodel.cpp" line="+225"/>
         <source>Date</source>
-        <translation>日期</translation>
+        <translation>Date</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Type</source>
-        <translation>类型</translation>
+        <translation>Type</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Address</source>
-        <translation>地�?�</translation>
+        <translation>Address</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Amount</source>
-        <translation>数�?</translation>
+        <translation>Amount</translation>
     </message>
     <message numerus="yes">
         <location line="+57"/>
         <source>Open for %n more block(s)</source>
-        <translation><numerusform>Open for %n more block</numerusform></translation>
+        <translation>
+            <numerusform>Open for %n more block</numerusform>
+            <numerusform>Open for %n more blocks</numerusform>
+        </translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Open until %1</source>
-        <translation>至 %1 个数�?��?�时开�?�</translation>
+        <translation>Open until %1</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Offline (%1 confirmations)</source>
-        <translation>离线 (%1 个确认项)</translation>
+        <translation>Offline (%1 confirmations)</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Unconfirmed (%1 of %2 confirmations)</source>
-        <translation>未确认 (%1 / %2 �?�确认信�?�)</translation>
+        <translation>Unconfirmed (%1 of %2 confirmations)</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Confirmed (%1 confirmations)</source>
-        <translation>已确认 (%1 �?�确认信�?�)</translation>
+        <translation>Confirmed (%1 confirmations)</translation>
     </message>
     <message numerus="yes">
         <location line="+8"/>
         <source>Mined balance will be available when it matures in %n more block(s)</source>
-        <translation><numerusform>挖矿收入余�?将在 %n 个数�?��?��?��?�用</numerusform></translation>
+        <translation>
+            <numerusform>Mined balance will be available when it matures in %n more block</numerusform>
+            <numerusform>Mined balance will be available when it matures in %n more blocks</numerusform>
+        </translation>
     </message>
     <message>
         <location line="+5"/>
         <source>This block was not received by any other nodes and will probably not be accepted!</source>
-        <translation>此数�?��?�未被其他节点接收，并�?�能�?被接�?��?</translation>
+        <translation>This block was not received by any other nodes and will probably not be accepted!</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Generated but not accepted</source>
-        <translation>已生�?但未被接�?�</translation>
+        <translation>Generated but not accepted</translation>
     </message>
     <message>
         <location line="+43"/>
         <source>Received with</source>
-        <translation>接收于</translation>
+        <translation>Received with</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Received from</source>
-        <translation>收款�?�自</translation>
+        <translation>Received from</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Sent to</source>
-        <translation>�?��?到</translation>
+        <translation>Sent to</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Payment to yourself</source>
-        <translation>付款给自己</translation>
+        <translation>Payment to yourself</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Mined</source>
-        <translation>挖矿所得</translation>
+        <translation>Mined</translation>
     </message>
     <message>
         <location line="+38"/>
@@ -1941,27 +1969,27 @@ Address: %4
     <message>
         <location line="+199"/>
         <source>Transaction status. Hover over this field to show number of confirmations.</source>
-        <translation>交易状�?。 鼠标移到此区域上�?�显示确认消�?�项的数目。</translation>
+        <translation>Transaction status. Hover over this field to show number of confirmations.</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Date and time that the transaction was received.</source>
-        <translation>接收莱特�?的时间</translation>
+        <translation>Date and time that the transaction was received.</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Type of transaction.</source>
-        <translation>交易类别。</translation>
+        <translation>Type of transaction.</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Destination address of transaction.</source>
-        <translation>交易目的地�?�。</translation>
+        <translation>Destination address of transaction.</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Amount removed from or added to balance.</source>
-        <translation>从余�?添加或移除的金�?。</translation>
+        <translation>Amount removed from or added to balance.</translation>
     </message>
 </context>
 <context>
@@ -1970,142 +1998,142 @@ Address: %4
         <location filename="../transactionview.cpp" line="+52"/>
         <location line="+16"/>
         <source>All</source>
-        <translation>全部</translation>
+        <translation>All</translation>
     </message>
     <message>
         <location line="-15"/>
         <source>Today</source>
-        <translation>今天</translation>
+        <translation>Today</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>This week</source>
-        <translation>本周</translation>
+        <translation>This week</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>This month</source>
-        <translation>本月</translation>
+        <translation>This month</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Last month</source>
-        <translation>上月</translation>
+        <translation>Last month</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>This year</source>
-        <translation>今年</translation>
+        <translation>This year</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Range...</source>
-        <translation>范围...</translation>
+        <translation>Range...</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Received with</source>
-        <translation>接收于</translation>
+        <translation>Received with</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Sent to</source>
-        <translation>�?��?到</translation>
+        <translation>Sent to</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>To yourself</source>
-        <translation>到自己</translation>
+        <translation>To yourself</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Mined</source>
-        <translation>挖矿所得</translation>
+        <translation>Mined</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Other</source>
-        <translation>其他</translation>
+        <translation>Other</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Enter address or label to search</source>
-        <translation>输入地�?�或标签进行�?�索</translation>
+        <translation>Enter address or label to search</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Min amount</source>
-        <translation>最�?金�?</translation>
+        <translation>Min amount</translation>
     </message>
     <message>
         <location line="+34"/>
         <source>Copy address</source>
-        <translation>�?制地�?�</translation>
+        <translation>Copy address</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Copy label</source>
-        <translation>�?制标签</translation>
+        <translation>Copy label</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Copy amount</source>
-        <translation>�?制金�?</translation>
+        <translation>Copy amount</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Copy transaction ID</source>
-        <translation>�?制交易编�?�</translation>
+        <translation>Copy transaction ID</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Edit label</source>
-        <translation>编辑标签</translation>
+        <translation>Edit label</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Show transaction details</source>
-        <translation>显示交易详情</translation>
+        <translation>Show transaction details</translation>
     </message>
     <message>
         <location line="+139"/>
         <source>Export Transaction Data</source>
-        <translation>导出交易数�?�</translation>
+        <translation>Export Transaction Data</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Comma separated file (*.csv)</source>
-        <translation>逗�?�分隔文件(*.csv)</translation>
+        <translation>Comma separated file (*.csv)</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Confirmed</source>
-        <translation>已确认</translation>
+        <translation>Confirmed</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Date</source>
-        <translation>日期</translation>
+        <translation>Date</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Type</source>
-        <translation>类别</translation>
+        <translation>Type</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Label</source>
-        <translation>标签</translation>
+        <translation>Label</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Address</source>
-        <translation>地�?�</translation>
+        <translation>Address</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Amount</source>
-        <translation>金�?</translation>
+        <translation>Amount</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2115,22 +2143,22 @@ Address: %4
     <message>
         <location line="+4"/>
         <source>Error exporting</source>
-        <translation>导出错误</translation>
+        <translation>Error exporting</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Could not write to file %1.</source>
-        <translation>无法写入文件 %1。</translation>
+        <translation>Could not write to file %1.</translation>
     </message>
     <message>
         <location line="+100"/>
         <source>Range:</source>
-        <translation>范围：</translation>
+        <translation>Range:</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>to</source>
-        <translation>到</translation>
+        <translation>to</translation>
     </message>
 </context>
 <context>
@@ -2138,7 +2166,7 @@ Address: %4
     <message>
         <location filename="../walletmodel.cpp" line="+193"/>
         <source>Send Coins</source>
-        <translation>�?��?莱特�?</translation>
+        <translation>Send Coins</translation>
     </message>
 </context>
 <context>
@@ -2146,42 +2174,42 @@ Address: %4
     <message>
         <location filename="../walletview.cpp" line="+42"/>
         <source>&amp;Export</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Export</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Export the data in the current tab to a file</source>
-        <translation>导出当�?数�?�到文件</translation>
+        <translation>Export the data in the current tab to a file</translation>
     </message>
     <message>
         <location line="+193"/>
         <source>Backup Wallet</source>
-        <translation>备份钱包</translation>
+        <translation>Backup Wallet</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Wallet Data (*.dat)</source>
-        <translation>钱包文件(*.dat)</translation>
+        <translation>Wallet Data (*.dat)</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Backup Failed</source>
-        <translation>备份失败</translation>
+        <translation>Backup Failed</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>There was an error trying to save the wallet data to the new location.</source>
-        <translation>备份钱包到其它文件夹失败.</translation>
+        <translation>There was an error trying to save the wallet data to the new location.</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Backup Successful</source>
-        <translation>备份�?功</translation>
+        <translation>Backup Successful</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>The wallet data was successfully saved to the new location.</source>
-        <translation>钱包数�?��?功存储到新�?置</translation>
+        <translation>The wallet data was successfully saved to the new location.</translation>
     </message>
 </context>
 <context>
@@ -2189,123 +2217,112 @@ Address: %4
     <message>
         <location filename="../bitcoinstrings.cpp" line="+94"/>
         <source>Icecoin version</source>
-        <translation>莱特�?版本</translation>
+        <translation>Icecoin version</translation>
     </message>
     <message>
         <location line="+102"/>
         <source>Usage:</source>
-        <translation>使用：</translation>
+        <translation>Usage:</translation>
     </message>
     <message>
         <location line="-29"/>
         <source>Send command to -server or icecoind</source>
-        <translation>�?��?命令到�?务器或者 icecoind
-</translation>
+        <translation>Send command to -server or icecoind</translation>
     </message>
     <message>
         <location line="-23"/>
         <source>List commands</source>
-        <translation>列出命令
-</translation>
+        <translation>List commands</translation>
     </message>
     <message>
         <location line="-12"/>
         <source>Get help for a command</source>
-        <translation>获得�?�?�命令的帮助
-</translation>
+        <translation>Get help for a command</translation>
     </message>
     <message>
         <location line="+24"/>
         <source>Options:</source>
-        <translation>选项：
-</translation>
+        <translation>Options:</translation>
     </message>
     <message>
         <location line="+24"/>
         <source>Specify configuration file (default: icecoin.conf)</source>
-        <translation>指定�?置文件 (默认为 icecoin.conf)
-</translation>
+        <translation>Specify configuration file (default: icecoin.conf)</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Specify pid file (default: icecoind.pid)</source>
-        <translation>指定 pid 文件 (默认为 icecoind.pid)
-</translation>
+        <translation>Specify pid file (default: icecoind.pid)</translation>
     </message>
     <message>
         <location line="-1"/>
         <source>Specify data directory</source>
-        <translation>指定数�?�目录
-</translation>
+        <translation>Specify data directory</translation>
     </message>
     <message>
         <location line="-9"/>
         <source>Set database cache size in megabytes (default: 25)</source>
-        <translation>设置数�?�库缓冲区大�? (缺�?: 25MB)</translation>
+        <translation>Set database cache size in megabytes (default: 25)</translation>
     </message>
     <message>
         <location line="-28"/>
         <source>Listen for connections on &lt;port&gt; (default: 9333 or testnet: 19333)</source>
-        <translation>监�?�端�?�连接 &lt;port&gt; (缺�?: 9333 or testnet: 19333)</translation>
+        <translation>Listen for connections on &lt;port&gt; (default: 9333 or testnet: 19333)</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Maintain at most &lt;n&gt; connections to peers (default: 125)</source>
-        <translation>最大连接数 &lt;n&gt;  (缺�?: 125)</translation>
+        <translation>Maintain at most &lt;n&gt; connections to peers (default: 125)</translation>
     </message>
     <message>
         <location line="-48"/>
         <source>Connect to a node to retrieve peer addresses, and disconnect</source>
-        <translation>连接一个节点并获�?�对端地�?�, 然�?�断开连接</translation>
+        <translation>Connect to a node to retrieve peer addresses, and disconnect</translation>
     </message>
     <message>
         <location line="+82"/>
         <source>Specify your own public address</source>
-        <translation>指定您的公共地�?�</translation>
+        <translation>Specify your own public address</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Threshold for disconnecting misbehaving peers (default: 100)</source>
-        <translation>Threshold for disconnecting misbehaving peers (缺�?: 100)</translation>
+        <translation>Threshold for disconnecting misbehaving peers (default: 100)</translation>
     </message>
     <message>
         <location line="-134"/>
         <source>Number of seconds to keep misbehaving peers from reconnecting (default: 86400)</source>
-        <translation>Number of seconds to keep misbehaving peers from reconnecting (缺�?: 86400)</translation>
+        <translation>Number of seconds to keep misbehaving peers from reconnecting (default: 86400)</translation>
     </message>
     <message>
         <location line="-29"/>
         <source>An error occurred while setting up the RPC port %u for listening on IPv4: %s</source>
-        <translation>设置RPC监�?�端�?�%u时�?�生错误, IPv4:%s</translation>
+        <translation>An error occurred while setting up the RPC port %u for listening on IPv4: %s</translation>
     </message>
     <message>
         <location line="+27"/>
         <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 9332 or testnet: 19332)</source>
-        <translation>JSON-RPC连接监�?�端�?�&lt;port&gt; (缺�?：9332　testnet：19332)</translation>
+        <translation>Listen for JSON-RPC connections on &lt;port&gt; (default: 9332 or testnet: 19332)</translation>
     </message>
     <message>
         <location line="+37"/>
         <source>Accept command line and JSON-RPC commands</source>
-        <translation>接�?�命令行和 JSON-RPC 命令
-</translation>
+        <translation>Accept command line and JSON-RPC commands</translation>
     </message>
     <message>
         <location line="+76"/>
         <source>Run in the background as a daemon and accept commands</source>
-        <translation>在�?��?��?行并接�?�命令
-
-</translation>
+        <translation>Run in the background as a daemon and accept commands</translation>
     </message>
     <message>
         <location line="+37"/>
         <source>Use the test network</source>
-        <translation>使用测试网络
-</translation>
+        <translation>Use the test network</translation>
     </message>
     <message>
         <location line="-112"/>
         <source>Accept connections from outside (default: 1 if no -proxy or -connect)</source>
-        <translation>接�?��?�自外部的连接 (缺�?: 如果�?带 -proxy or -connect �?�数设置为1)</translation>
+        <translation>Accept connections from outside (default: 1 if no -proxy or -connect)</translation>
     </message>
     <message>
         <location line="-80"/>
@@ -2320,52 +2337,52 @@ If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
 for example: alertnotify=echo %%s | mail -s &quot;Icecoin Alert&quot; admin@foo.com
 </source>
-        <translation>%s, 您必须在�?置文件设置rpcpassword:
- %s
-建议您使用下�?�的�?机密�?:
+        <translation>%s, you must set a rpcpassword in the configuration file:
+%s
+It is recommended you use the following random password:
 rpcuser=icecoinrpc
 rpcpassword=%s
-(您无需记�?此密�?)
-用户�??和密�? 必! 须! �?一样。
-如果�?置文件�?存在，请自行建立一个�?�有所有者拥有�?�读�?��?的文件。
-推�??您开�?��??示通知以便收到错误通知，
-�?这样: alertnotify=echo %%s | mail -s &quot;Icecoin Alert&quot; admin@foo.com
+(you do not need to remember this password)
+The username and password MUST NOT be the same.
+If the file does not exist, create it with owner-readable-only file permissions.
+It is also recommended to set alertnotify so you are notified of problems;
+for example: alertnotify=echo %%s | mail -s &quot;Icecoin Alert&quot; admin@foo.com
 </translation>
     </message>
     <message>
         <location line="+17"/>
         <source>An error occurred while setting up the RPC port %u for listening on IPv6, falling back to IPv4: %s</source>
-        <translation>在IPv6模�?下设置RPC监�?�端�?� %u 失败，返回到IPv4模�?: %s</translation>
+        <translation>An error occurred while setting up the RPC port %u for listening on IPv6, falling back to IPv4: %s</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Bind to given address and always listen on it. Use [host]:port notation for IPv6</source>
-        <translation>绑定指定的IP地�?�开始监�?�。IPv6地�?�请使用[host]:port 格�?</translation>
+        <translation>Bind to given address and always listen on it. Use [host]:port notation for IPv6</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Cannot obtain a lock on data directory %s. Icecoin is probably already running.</source>
-        <translation>无法给数�?�目录 %s上�?。本软件�?�能已�?在�?行。</translation>
+        <translation>Cannot obtain a lock on data directory %s. Icecoin is probably already running.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Error: The transaction was rejected! This might happen if some of the coins in your wallet were already spent, such as if you used a copy of wallet.dat and coins were spent in the copy but not marked as spent here.</source>
-        <translation>错误：该交易被拒�?�?�?�生这�?错误的原因�?�能是：钱包中的莱特�?已�?被用掉，有�?�能您�?制了wallet.dat钱包文件，然�?�用�?制的钱包文件支付了莱特�?，但是这个钱包文件中没有记录。</translation>
+        <translation>Error: The transaction was rejected! This might happen if some of the coins in your wallet were already spent, such as if you used a copy of wallet.dat and coins were spent in the copy but not marked as spent here.</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Error: This transaction requires a transaction fee of at least %s because of its amount, complexity, or use of recently received funds!</source>
-        <translation>错误：因为该交易的数�?�?�?�?�度或者动用了刚收到�?久的资金，您需�?支付�?少于%s的交易费用。</translation>
+        <translation>Error: This transaction requires a transaction fee of at least %s because of its amount, complexity, or use of recently received funds!</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Execute command when a relevant alert is received (%s in cmd is replaced by message)</source>
-        <translation>当收到相关通知时执行命令（命令行中的 %s 的替�?�为消�?�）</translation>
+        <translation>Execute command when a relevant alert is received (%s in cmd is replaced by message)</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Execute command when a wallet transaction changes (%s in cmd is replaced by TxID)</source>
-        <translation>当最佳区�?��?�化时执行命令 (命令行中的 %s 会被替�?��?区�?�哈希值)</translation>
+        <translation>Execute command when a wallet transaction changes (%s in cmd is replaced by TxID)</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -2375,67 +2392,67 @@ rpcpassword=%s
     <message>
         <location line="+6"/>
         <source>This is a pre-release test build - use at your own risk - do not use for mining or merchant applications</source>
-        <translation>这是测试用的预�?�布版本 - 请谨慎使用 - �?�?用�?�挖矿，或者在正�?商用环境下使用</translation>
+        <translation>This is a pre-release test build - use at your own risk - do not use for mining or merchant applications</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Warning: -paytxfee is set very high! This is the transaction fee you will pay if you send a transaction.</source>
-        <translation>警告：-paytxfee 交易费设置得太高了�?�?笔交易都将支付交易费。</translation>
+        <translation>Warning: -paytxfee is set very high! This is the transaction fee you will pay if you send a transaction.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Warning: Displayed transactions may not be correct! You may need to upgrade, or other nodes may need to upgrade.</source>
-        <translation>警告：显示的交易�?�能�?正确�?您需�?�?�级客户端软件，或者网络上的其他节点需�?�?�级。</translation>
+        <translation>Warning: Displayed transactions may not be correct! You may need to upgrade, or other nodes may need to upgrade.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Icecoin will not work properly.</source>
-        <translation>警告：请检查电脑的日期时间设置是�?�正确�?时间错误�?�能会导致莱特�?客户端�?行异常。</translation>
+        <translation>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Icecoin will not work properly.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Warning: error reading wallet.dat! All keys read correctly, but transaction data or address book entries might be missing or incorrect.</source>
-        <translation>警告：钱包文件wallet.dat读�?�失败�?最�?�?的公钥�?�?钥数�?�都没有问题，但是交易记录或地�?�簿数�?��?正确，或者存在数�?�丢失。</translation>
+        <translation>Warning: error reading wallet.dat! All keys read correctly, but transaction data or address book entries might be missing or incorrect.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Warning: wallet.dat corrupt, data salvaged! Original wallet.dat saved as wallet.{timestamp}.bak in %s; if your balance or transactions are incorrect you should restore from a backup.</source>
-        <translation>警告：钱包文件wallet.dat�?��??! 原始的钱包文件已�?备份到%s目录下并�?命�??为{timestamp}.bak 。如果您的账户余�?或者交易记录�?正确，请使用您的钱包备份文件�?��?。</translation>
+        <translation>Warning: wallet.dat corrupt, data salvaged! Original wallet.dat saved as wallet.{timestamp}.bak in %s; if your balance or transactions are incorrect you should restore from a backup.</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Attempt to recover private keys from a corrupt wallet.dat</source>
-        <translation>�?试从�?��??的钱包文件wallet.dat中�?��?�?钥</translation>
+        <translation>Attempt to recover private keys from a corrupt wallet.dat</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Block creation options:</source>
-        <translation>数�?��?�创建选项：</translation>
+        <translation>Block creation options:</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Connect only to the specified node(s)</source>
-        <translation>仅连接到指定节点</translation>
+        <translation>Connect only to the specified node(s)</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Corrupted block database detected</source>
-        <translation>检测�?�现数�?��?�数�?�库�?��??。请使用 -reindex�?�数�?�?�客户端。</translation>
+        <translation>Corrupted block database detected</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Discover own IP address (default: 1 when listening and no -externalip)</source>
-        <translation>�?�现自己的IP地�?�(缺�?:�?带 -externalip �?�数监�?�时设置为1)</translation>
+        <translation>Discover own IP address (default: 1 when listening and no -externalip)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Do you want to rebuild the block database now?</source>
-        <translation>你想现在就�?建�?�数�?�库�?�？</translation>
+        <translation>Do you want to rebuild the block database now?</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Error initializing block database</source>
-        <translation>�?始化数�?��?�数�?�库出错</translation>
+        <translation>Error initializing block database</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2445,97 +2462,97 @@ rpcpassword=%s
     <message>
         <location line="+1"/>
         <source>Error loading block database</source>
-        <translation>导入数�?��?�数�?�库出错</translation>
+        <translation>Error loading block database</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Error opening block database</source>
-        <translation>导入数�?��?�数�?�库出错</translation>
+        <translation>Error opening block database</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Error: Disk space is low!</source>
-        <translation>错误：�?盘剩余空间低!</translation>
+        <translation>Error: Disk space is low!</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Error: Wallet locked, unable to create transaction!</source>
-        <translation>错误：钱包被�?定，无法创建交易�?</translation>
+        <translation>Error: Wallet locked, unable to create transaction!</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Error: system error: </source>
-        <translation>错误：系统出错。</translation>
+        <translation>Error: system error: </translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Failed to listen on any port. Use -listen=0 if you want this.</source>
-        <translation>监�?�端�?�失败。请使用 -listen=0 �?�数。</translation>
+        <translation>Failed to listen on any port. Use -listen=0 if you want this.</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Failed to read block info</source>
-        <translation>无法读�?�数�?��?�信�?�</translation>
+        <translation>Failed to read block info</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Failed to read block</source>
-        <translation>读�?�数�?��?�失败</translation>
+        <translation>Failed to read block</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Failed to sync block index</source>
-        <translation>无法�?�步数�?��?�索引</translation>
+        <translation>Failed to sync block index</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Failed to write block index</source>
-        <translation>无法写入数�?��?�索引</translation>
+        <translation>Failed to write block index</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Failed to write block info</source>
-        <translation>无法写入数�?��?�信�?�</translation>
+        <translation>Failed to write block info</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Failed to write block</source>
-        <translation>无法写数�?��?�</translation>
+        <translation>Failed to write block</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Failed to write file info</source>
-        <translation>无法写入文件信�?�</translation>
+        <translation>Failed to write file info</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Failed to write to coin database</source>
-        <translation>无法写入coin数�?�库</translation>
+        <translation>Failed to write to coin database</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Failed to write transaction index</source>
-        <translation>无法写入交易索引</translation>
+        <translation>Failed to write transaction index</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Failed to write undo data</source>
-        <translation>无法写入回滚信�?�</translation>
+        <translation>Failed to write undo data</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Find peers using DNS lookup (default: 1 unless -connect)</source>
-        <translation>通过DNS查找节点(缺�?：1 除�?�使用 -connect 选项)</translation>
+        <translation>Find peers using DNS lookup (default: 1 unless -connect)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Generate coins (default: 0)</source>
-        <translation type="unfinished"/>
+        <translation>Generate coins (default: 0)</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>How many blocks to check at startup (default: 288, 0 = all)</source>
-        <translation>�?�动时检测多少个数�?��?�(缺�?：288，0=所有)</translation>
+        <translation>How many blocks to check at startup (default: 288, 0 = all)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2545,193 +2562,192 @@ rpcpassword=%s
     <message>
         <location line="+19"/>
         <source>Not enough file descriptors available.</source>
-        <translation type="unfinished"/>
+        <translation>Not enough file descriptors available.</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Rebuild block chain index from current blk000??.dat files</source>
-        <translation>�?新为当�?的blk000??.dat文件建立索引</translation>
+        <translation>Rebuild block chain index from current blk000??.dat files</translation>
     </message>
     <message>
         <location line="+16"/>
         <source>Set the number of threads to service RPC calls (default: 4)</source>
-        <translation>设置使用调用�?务 RPC 的线程数�?（默认：4）</translation>
+        <translation>Set the number of threads to service RPC calls (default: 4)</translation>
     </message>
     <message>
         <location line="+26"/>
         <source>Verifying blocks...</source>
-        <translation>正在验�?数�?�库的完整性...</translation>
+        <translation>Verifying blocks...</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Verifying wallet...</source>
-        <translation>正在检测钱包的完整性...</translation>
+        <translation>Verifying wallet...</translation>
     </message>
     <message>
         <location line="-69"/>
         <source>Imports blocks from external blk000??.dat file</source>
-        <translation>从blk000??.dat文件导入数�?��?�</translation>
+        <translation>Imports blocks from external blk000??.dat file</translation>
     </message>
     <message>
         <location line="-76"/>
         <source>Set the number of script verification threads (up to 16, 0 = auto, &lt;0 = leave that many cores free, default: 0)</source>
-        <translation type="unfinished"/>
+        <translation>Set the number of script verification threads (up to 16, 0 = auto, &lt;0 = leave that many cores free, default: 0)</translation>
     </message>
     <message>
         <location line="+77"/>
         <source>Information</source>
-        <translation>信�?�</translation>
+        <translation>Information</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Invalid -tor address: &apos;%s&apos;</source>
-        <translation>�?�法的 -tor 地�?�：&apos;%s&apos; </translation>
+        <translation>Invalid -tor address: &apos;%s&apos;</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Invalid amount for -minrelaytxfee=&lt;amount&gt;: &apos;%s&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Invalid amount for -minrelaytxfee=&lt;amount&gt;: &apos;%s&apos;</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Invalid amount for -mintxfee=&lt;amount&gt;: &apos;%s&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Invalid amount for -mintxfee=&lt;amount&gt;: &apos;%s&apos;</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Maintain a full transaction index (default: 0)</source>
-        <translation>维护一份完整的交易索引(缺�?：0)</translation>
+        <translation>Maintain a full transaction index (default: 0)</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Maximum per-connection receive buffer, &lt;n&gt;*1000 bytes (default: 5000)</source>
-        <translation>�?个连接的最大接收缓存，&lt;n&gt;*1000 字节(缺�?：5000)</translation>
+        <translation>Maximum per-connection receive buffer, &lt;n&gt;*1000 bytes (default: 5000)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Maximum per-connection send buffer, &lt;n&gt;*1000 bytes (default: 1000)</source>
-        <translation>�?个连接的最大�?��?缓存，&lt;n&gt;*1000 字节(缺�?：1000)</translation>
+        <translation>Maximum per-connection send buffer, &lt;n&gt;*1000 bytes (default: 1000)</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Only accept block chain matching built-in checkpoints (default: 1)</source>
-        <translation>仅接�?�符�?�客户端检查点设置的数�?��?�文件</translation>
+        <translation>Only accept block chain matching built-in checkpoints (default: 1)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Only connect to nodes in network &lt;net&gt; (IPv4, IPv6 or Tor)</source>
-        <translation>仅连接至指定网络的节点&lt;net&gt;(IPv4, IPv6 或者 Tor)</translation>
+        <translation>Only connect to nodes in network &lt;net&gt; (IPv4, IPv6 or Tor)</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Output extra debugging information. Implies all other -debug* options</source>
-        <translation>输出�?外的调试信�?�。打开所有 -debug* 开关</translation>
+        <translation>Output extra debugging information. Implies all other -debug* options</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Output extra network debugging information</source>
-        <translation>输出�?外的网络调试信�?�</translation>
+        <translation>Output extra network debugging information</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Prepend debug output with timestamp</source>
-        <translation>为调试输出信�?�添加时间戳</translation>
+        <translation>Prepend debug output with timestamp</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>SSL options: (see the Icecoin Wiki for SSL setup instructions)</source>
-        <translation>SSL选项：(�?��?Icecoin Wiki关于SSL设置�?目)</translation>
+        <translation>SSL options: (see the Icecoin Wiki for SSL setup instructions)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Select the version of socks proxy to use (4-5, default: 5)</source>
-        <translation>请选择Socks代�?��?务器版本 (4 或 5, 缺�?: 5)</translation>
+        <translation>Select the version of socks proxy to use (4-5, default: 5)</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Send trace/debug info to console instead of debug.log file</source>
-        <translation>跟踪/调试信�?�输出到控制�?�，�?输出到debug.log文件</translation>
+        <translation>Send trace/debug info to console instead of debug.log file</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Send trace/debug info to debugger</source>
-        <translation>跟踪/调试信�?�输出到 调试器debugger</translation>
+        <translation>Send trace/debug info to debugger</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Set maximum block size in bytes (default: 250000)</source>
-        <translation>设置最大数�?��?�大�?(缺�?：250000)</translation>
+        <translation>Set maximum block size in bytes (default: 250000)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Set minimum block size in bytes (default: 0)</source>
-        <translation>设置最�?数�?��?�大�?(缺�?:0)</translation>
+        <translation>Set minimum block size in bytes (default: 0)</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Shrink debug.log file on client startup (default: 1 when no -debug)</source>
-        <translation>客户端�?�动时压缩debug.log文件(缺�?：no-debug模�?时为1)</translation>
+        <translation>Shrink debug.log file on client startup (default: 1 when no -debug)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Signing transaction failed</source>
-        <translation type="unfinished"/>
+        <translation>Signing transaction failed</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Specify connection timeout in milliseconds (default: 5000)</source>
-        <translation>设置连接超时时间(缺�?：5000毫秒)</translation>
+        <translation>Specify connection timeout in milliseconds (default: 5000)</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>System error: </source>
-        <translation>系统错误：</translation>
+        <translation>System error: </translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Transaction amount too small</source>
-        <translation type="unfinished"/>
+        <translation>Transaction amount too small</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Transaction amounts must be positive</source>
-        <translation type="unfinished"/>
+        <translation>Transaction amounts must be positive</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Transaction too large</source>
-        <translation type="unfinished"/>
+        <translation>Transaction too large</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Use UPnP to map the listening port (default: 0)</source>
-        <translation>使用UPnp映射监�?�端�?�(缺�?: 0)</translation>
+        <translation>Use UPnP to map the listening port (default: 0)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Use UPnP to map the listening port (default: 1 when listening)</source>
-        <translation>使用UPnp映射监�?�端�?�(缺�?: 监�?�状�?设为1)</translation>
+        <translation>Use UPnP to map the listening port (default: 1 when listening)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Use proxy to reach tor hidden services (default: same as -proxy)</source>
-        <translation>使用代�?��?务器访问�?�?�?务(缺�?：�?� -proxy)</translation>
+        <translation>Use proxy to reach tor hidden services (default: same as -proxy)</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Username for JSON-RPC connections</source>
-        <translation>JSON-RPC连接用户�??
-</translation>
+        <translation>Username for JSON-RPC connections</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Warning</source>
-        <translation>警告</translation>
+        <translation>Warning</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Warning: This version is obsolete, upgrade required!</source>
-        <translation>警告：该软件版本已过时，请�?�级�?</translation>
+        <translation>Warning: This version is obsolete, upgrade required!</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2741,220 +2757,211 @@ rpcpassword=%s
     <message>
         <location line="+1"/>
         <source>wallet.dat corrupt, salvage failed</source>
-        <translation>钱包文件wallet.dat�?��??，抢救备份失败</translation>
+        <translation>wallet.dat corrupt, salvage failed</translation>
     </message>
     <message>
         <location line="-50"/>
         <source>Password for JSON-RPC connections</source>
-        <translation>JSON-RPC连接密�?
-</translation>
+        <translation>Password for JSON-RPC connections</translation>
     </message>
     <message>
         <location line="-67"/>
         <source>Allow JSON-RPC connections from specified IP address</source>
-        <translation>�?许从指定IP接�?�到的JSON-RPC连接
-</translation>
+        <translation>Allow JSON-RPC connections from specified IP address</translation>
     </message>
     <message>
         <location line="+76"/>
         <source>Send commands to node running on &lt;ip&gt; (default: 127.0.0.1)</source>
-        <translation>�?�IP地�?�为 &lt;ip&gt; 的节点�?��?指令 (缺�?: 127.0.0.1)
-</translation>
+        <translation>Send commands to node running on &lt;ip&gt; (default: 127.0.0.1)</translation>
     </message>
     <message>
         <location line="-120"/>
         <source>Execute command when the best block changes (%s in cmd is replaced by block hash)</source>
-        <translation>当最佳数�?��?��?�化时执行命令 (命令行中的 %s 会被替�?��?数�?��?�哈希值)</translation>
+        <translation>Execute command when the best block changes (%s in cmd is replaced by block hash)</translation>
     </message>
     <message>
         <location line="+147"/>
         <source>Upgrade wallet to latest format</source>
-        <translation>将钱包�?�级到最新的格�?</translation>
+        <translation>Upgrade wallet to latest format</translation>
     </message>
     <message>
         <location line="-21"/>
         <source>Set key pool size to &lt;n&gt; (default: 100)</source>
-        <translation>设置密钥池大�?为 &lt;n&gt; (缺�?: 100)
-</translation>
+        <translation>Set key pool size to &lt;n&gt; (default: 100)</translation>
     </message>
     <message>
         <location line="-12"/>
         <source>Rescan the block chain for missing wallet transactions</source>
-        <translation>�?新扫�??数�?�链以查找�?��?的交易
-</translation>
+        <translation>Rescan the block chain for missing wallet transactions</translation>
     </message>
     <message>
         <location line="+35"/>
         <source>Use OpenSSL (https) for JSON-RPC connections</source>
-        <translation>为 JSON-RPC 连接使用 OpenSSL (https)连接</translation>
+        <translation>Use OpenSSL (https) for JSON-RPC connections</translation>
     </message>
     <message>
         <location line="-26"/>
         <source>Server certificate file (default: server.cert)</source>
-        <translation>�?务器�?书 (默认为 server.cert)
-</translation>
+        <translation>Server certificate file (default: server.cert)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Server private key (default: server.pem)</source>
-        <translation>�?务器�?钥 (默认为 server.pem)
-</translation>
+        <translation>Server private key (default: server.pem)</translation>
     </message>
     <message>
         <location line="-151"/>
         <source>Acceptable ciphers (default: TLSv1+HIGH:!SSLv2:!aNULL:!eNULL:!AH:!3DES:@STRENGTH)</source>
-        <translation>�?�接�?�的加密器 (默认为 TLSv1+HIGH:!SSLv2:!aNULL:!eNULL:!AH:!3DES:@STRENGTH)
-</translation>
+        <translation>Acceptable ciphers (default: TLSv1+HIGH:!SSLv2:!aNULL:!eNULL:!AH:!3DES:@STRENGTH)</translation>
     </message>
     <message>
         <location line="+165"/>
         <source>This help message</source>
-        <translation>该帮助信�?�
-</translation>
+        <translation>This help message</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Unable to bind to %s on this computer (bind returned error %d, %s)</source>
-        <translation>无法绑定本机端�?� %s  (返回错误消�?� %d, %s)</translation>
+        <translation>Unable to bind to %s on this computer (bind returned error %d, %s)</translation>
     </message>
     <message>
         <location line="-91"/>
         <source>Connect through socks proxy</source>
-        <translation>通过 socks 代�?�连接</translation>
+        <translation>Connect through socks proxy</translation>
     </message>
     <message>
         <location line="-10"/>
         <source>Allow DNS lookups for -addnode, -seednode and -connect</source>
-        <translation>使用 -addnode, -seednode 和 -connect选项时�?许DNS查找</translation>
+        <translation>Allow DNS lookups for -addnode, -seednode and -connect</translation>
     </message>
     <message>
         <location line="+55"/>
         <source>Loading addresses...</source>
-        <translation>正在加载地�?�...</translation>
+        <translation>Loading addresses...</translation>
     </message>
     <message>
         <location line="-35"/>
         <source>Error loading wallet.dat: Wallet corrupted</source>
-        <translation>wallet.dat钱包文件加载错误：钱包�?��??</translation>
+        <translation>Error loading wallet.dat: Wallet corrupted</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Error loading wallet.dat: Wallet requires newer version of Icecoin</source>
-        <translation>wallet.dat钱包文件加载错误：请�?�级到最新Icecoin客户端</translation>
+        <translation>Error loading wallet.dat: Wallet requires newer version of Icecoin</translation>
     </message>
     <message>
         <location line="+93"/>
         <source>Wallet needed to be rewritten: restart Icecoin to complete</source>
-        <translation>钱包文件需�?�?写：请退出并�?新�?�动Icecoin客户端</translation>
+        <translation>Wallet needed to be rewritten: restart Icecoin to complete</translation>
     </message>
     <message>
         <location line="-95"/>
         <source>Error loading wallet.dat</source>
-        <translation>wallet.dat钱包文件加载错误</translation>
+        <translation>Error loading wallet.dat</translation>
     </message>
     <message>
         <location line="+28"/>
         <source>Invalid -proxy address: &apos;%s&apos;</source>
-        <translation>�?�法的代�?�地�?�: &apos;%s&apos;</translation>
+        <translation>Invalid -proxy address: &apos;%s&apos;</translation>
     </message>
     <message>
         <location line="+56"/>
         <source>Unknown network specified in -onlynet: &apos;%s&apos;</source>
-        <translation>被指定的是未知网络 -onlynet: &apos;%s&apos;</translation>
+        <translation>Unknown network specified in -onlynet: &apos;%s&apos;</translation>
     </message>
     <message>
         <location line="-1"/>
         <source>Unknown -socks proxy version requested: %i</source>
-        <translation>被指定的是未知socks代�?�版本: %i</translation>
+        <translation>Unknown -socks proxy version requested: %i</translation>
     </message>
     <message>
         <location line="-96"/>
         <source>Cannot resolve -bind address: &apos;%s&apos;</source>
-        <translation>无法解�? -bind 端�?�地�?�: &apos;%s&apos;</translation>
+        <translation>Cannot resolve -bind address: &apos;%s&apos;</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Cannot resolve -externalip address: &apos;%s&apos;</source>
-        <translation>无法解�? -externalip 地�?�: &apos;%s&apos;</translation>
+        <translation>Cannot resolve -externalip address: &apos;%s&apos;</translation>
     </message>
     <message>
         <location line="+44"/>
         <source>Invalid amount for -paytxfee=&lt;amount&gt;: &apos;%s&apos;</source>
-        <translation>�?�法金�? -paytxfee=&lt;amount&gt;: &apos;%s&apos;</translation>
+        <translation>Invalid amount for -paytxfee=&lt;amount&gt;: &apos;%s&apos;</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Invalid amount</source>
-        <translation>金�?�?对</translation>
+        <translation>Invalid amount</translation>
     </message>
     <message>
         <location line="-6"/>
         <source>Insufficient funds</source>
-        <translation>金�?�?足</translation>
+        <translation>Insufficient funds</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Loading block index...</source>
-        <translation>加载数�?��?�索引...</translation>
+        <translation>Loading block index...</translation>
     </message>
     <message>
         <location line="-57"/>
         <source>Add a node to connect to and attempt to keep the connection open</source>
-        <translation>添加节点并与其�?�?连接</translation>
+        <translation>Add a node to connect to and attempt to keep the connection open</translation>
     </message>
     <message>
         <location line="-25"/>
         <source>Unable to bind to %s on this computer. Icecoin is probably already running.</source>
-        <translation>无法在本机绑定 %s 端�?� . 莱特�?客户端软件�?�能已�?在�?行.</translation>
+        <translation>Unable to bind to %s on this computer. Icecoin is probably already running.</translation>
     </message>
     <message>
         <location line="+64"/>
         <source>Fee per KB to add to transactions you send</source>
-        <translation>�?�?��?1KB交易所需的费用</translation>
+        <translation>Fee per KB to add to transactions you send</translation>
     </message>
     <message>
         <location line="+19"/>
         <source>Loading wallet...</source>
-        <translation>正在加载钱包...</translation>
+        <translation>Loading wallet...</translation>
     </message>
     <message>
         <location line="-52"/>
         <source>Cannot downgrade wallet</source>
-        <translation>无法�?级钱包格�?</translation>
+        <translation>Cannot downgrade wallet</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Cannot write default address</source>
-        <translation>无法写入缺�?地�?�</translation>
+        <translation>Cannot write default address</translation>
     </message>
     <message>
         <location line="+64"/>
         <source>Rescanning...</source>
-        <translation>正在�?新扫�??...</translation>
+        <translation>Rescanning...</translation>
     </message>
     <message>
         <location line="-57"/>
         <source>Done loading</source>
-        <translation>加载完�?</translation>
+        <translation>Done loading</translation>
     </message>
     <message>
         <location line="+82"/>
         <source>To use the %s option</source>
-        <translation>使用 %s 选项</translation>
+        <translation>To use the %s option</translation>
     </message>
     <message>
         <location line="-74"/>
         <source>Error</source>
-        <translation>错误</translation>
+        <translation>Error</translation>
     </message>
     <message>
         <location line="-31"/>
         <source>You must set rpcpassword=&lt;password&gt; in the configuration file:
 %s
 If the file does not exist, create it with owner-readable-only file permissions.</source>
-        <translation>您必须在�?置文件中加入选项 rpcpassword :
- %s
-如果�?置文件�?存在，请新建，并将文件�?��?设置为仅�?许文件所有者读�?�.</translation>
+        <translation>You must set rpcpassword=&lt;password&gt; in the configuration file:
+%s
+If the file does not exist, create it with owner-readable-only file permissions.</translation>
     </message>
 </context>
 </TS>
